@@ -107,6 +107,8 @@
   const carte = $("[data-map]");
   if (carte) {
     const inner = $(".map-inner", carte);
+    const svg = $(".map-svg", carte);
+    const [, , LARG_U, HAUT_U] = svg.getAttribute("viewBox").split(" ").map(Number);
     const terres = $(".map-land", carte);
     const aiguille = $(".c-needle", carte);
     const boussole = $(".compass", carte);
@@ -188,13 +190,18 @@
       if (active && active.hidden) fermer();
     };
 
-    /* --- Application du zoom --- */
-    let rafId = 0;
-    const appliquer = (anime) => {
-      borner();
-      inner.classList.toggle("is-animating", !!anime && !reduit);
-      inner.style.transform = `translate(${tx}px, ${ty}px) scale(${s})`;
-      inner.style.setProperty("--inv", (1 / s).toFixed(4));
+    /* --- Application du zoom : la carte est redessinée en vectoriel (nette à tout zoom) --- */
+    let rafId = 0, animId = 0;
+    const rendre = () => {
+      const { bw, bh } = base();
+      const vw = LARG_U / s, vh = HAUT_U / s;
+      svg.setAttribute("viewBox", `${(-tx * vw) / bw} ${(-ty * vh) / bh} ${vw} ${vh}`);
+      pins.forEach((pin) => {
+        pin.style.left = `${tx + s * parseFloat(pin.dataset.fx) * bw}px`;
+        pin.style.top = `${ty + s * parseFloat(pin.dataset.fy) * bh}px`;
+      });
+    };
+    const finir = () => {
       carte.classList.toggle("is-zoomed", s > 1.01);
       btnMoins.disabled = s <= 1.01;
       btnPlus.disabled = s >= S_MAX - 0.01;
@@ -202,6 +209,29 @@
       cancelAnimationFrame(rafId);
       rafId = requestAnimationFrame(() => { regrouper(); if (active) { placer(active); viser(active); } });
     };
+    const appliquer = (anime) => {
+      borner();
+      cancelAnimationFrame(animId);
+      if (!anime || reduit) { rendre(); memoriser(); finir(); return; }
+      // Animation douce vers la cible (interpolation de l'échelle et du décalage).
+      const cible = { s, tx, ty };
+      const depart0 = { ...etatAffiche };
+      const t0 = performance.now();
+      const pas = (t) => {
+        const k = Math.min(1, (t - t0) / 420);
+        const e = 1 - Math.pow(1 - k, 3);
+        s = depart0.s * Math.pow(cible.s / depart0.s, e);
+        tx = depart0.tx + (cible.tx - depart0.tx) * e;
+        ty = depart0.ty + (cible.ty - depart0.ty) * e;
+        rendre();
+        memoriser();
+        if (k < 1) { animId = requestAnimationFrame(pas); } else { s = cible.s; tx = cible.tx; ty = cible.ty; rendre(); memoriser(); finir(); }
+      };
+      s = depart0.s; tx = depart0.tx; ty = depart0.ty;
+      animId = requestAnimationFrame(pas);
+    };
+    const etatAffiche = { s: 1, tx: 0, ty: 0 };
+    const memoriser = () => { etatAffiche.s = s; etatAffiche.tx = tx; etatAffiche.ty = ty; };
     const zoomerEn = (facteur, mx, my, anime) => {
       const { bx, by } = base();
       const s2 = Math.min(S_MAX, Math.max(1, s * facteur));

@@ -103,21 +103,35 @@
     });
   }
 
-  /* ---------- Carte : épingles, fiche, boussole ---------- */
+  /* ---------- Carte : zoom, regroupement, filtres, fiche, boussole ---------- */
   const carte = $("[data-map]");
   if (carte) {
+    const inner = $(".map-inner", carte);
+    const terres = $(".map-land", carte);
     const aiguille = $(".c-needle", carte);
     const boussole = $(".compass", carte);
     const fiche = $("#pin-card");
+    const pins = $$(".pin", carte);
+    const btnPlus = $('[data-zoom="in"]', carte);
+    const btnMoins = $('[data-zoom="out"]', carte);
+    const astuce = $(".map-hint", carte);
+    const regions = $$(".region");
+    const filtres = $$(".ml-btn");
+    const resets = $$(".ml-reset");
+    const S_MAX = 22;
+    const RAYON = 38; // px à l'écran : en dessous, les épingles se regroupent
+    let s = 1, tx = 0, ty = 0;
     let active = null;
+    let groupes = new Map(); // épingle meneuse -> membres du groupe
+    let detailDemande = false;
+    const themesActifs = new Set();
 
+    /* --- Boussole --- */
     const viser = (pin) => {
-      if (!aiguille || !boussole) return;
+      if (!aiguille || !boussole || !pin) return;
       const a = boussole.getBoundingClientRect();
       const b = $(".pin-dot", pin).getBoundingClientRect();
-      const dx = b.left + b.width / 2 - (a.left + a.width / 2);
-      const dy = b.top + b.height / 2 - (a.top + a.height / 2);
-      const angle = (Math.atan2(dx, -dy) * 180) / Math.PI;
+      const angle = (Math.atan2(b.left + b.width / 2 - (a.left + a.width / 2), -(b.top + b.height / 2 - (a.top + a.height / 2))) * 180) / Math.PI;
       aiguille.style.setProperty("--angle", `${angle.toFixed(1)}deg`);
     };
     const repos = () => {
@@ -125,7 +139,99 @@
       aiguille && aiguille.style.setProperty("--angle", "-18deg");
     };
 
-    const remplir = (pin) => {
+    /* --- Géométrie : position de la carte dans son cadre --- */
+    const base = () => ({ bx: inner.offsetLeft, by: inner.offsetTop, bw: inner.offsetWidth, bh: inner.offsetHeight, W: carte.clientWidth, H: carte.clientHeight });
+    const borner = () => {
+      const { bx, by, bw, bh, W, H } = base();
+      const ajuster = (t, b0, taille, vue) => {
+        const plein = s * taille;
+        if (plein <= vue) return (vue - plein) / 2 - b0;
+        return Math.min(-b0, Math.max(vue - b0 - plein, t));
+      };
+      tx = ajuster(tx, bx, bw, W);
+      ty = ajuster(ty, by, bh, H);
+    };
+    const ecran = (pin) => {
+      const { bx, by, bw, bh } = base();
+      return [bx + tx + s * parseFloat(pin.dataset.fx) * bw, by + ty + s * parseFloat(pin.dataset.fy) * bh];
+    };
+
+    /* --- Regroupement selon le zoom, et filtres par thème --- */
+    const visible = (pin) => !themesActifs.size || pin.dataset.themes.split(" ").some((t) => themesActifs.has(t));
+    const regrouper = () => {
+      groupes = new Map();
+      const meneuses = [];
+      pins.forEach((pin) => {
+        pin.classList.remove("is-grouped");
+        const cpt = $(".pin-count", pin);
+        if (cpt) cpt.remove();
+        if (!visible(pin)) { pin.hidden = true; return; }
+        pin.hidden = false;
+        const [px, py] = ecran(pin);
+        const proche = meneuses.find((m) => Math.hypot(m.px - px, m.py - py) < RAYON);
+        if (proche) {
+          groupes.get(proche.pin).push(pin);
+          pin.hidden = true;
+        } else {
+          meneuses.push({ pin, px, py });
+          groupes.set(pin, [pin]);
+        }
+      });
+      groupes.forEach((membres, pin) => {
+        if (membres.length < 2) return;
+        pin.classList.add("is-grouped");
+        const c = document.createElement("span");
+        c.className = "pin-count";
+        c.textContent = `+${membres.length - 1}`;
+        $(".pin-label", pin).append(c);
+      });
+      if (active && active.hidden) fermer();
+    };
+
+    /* --- Application du zoom --- */
+    let rafId = 0;
+    const appliquer = (anime) => {
+      borner();
+      inner.classList.toggle("is-animating", !!anime && !reduit);
+      inner.style.transform = `translate(${tx}px, ${ty}px) scale(${s})`;
+      inner.style.setProperty("--inv", (1 / s).toFixed(4));
+      carte.classList.toggle("is-zoomed", s > 1.01);
+      btnMoins.disabled = s <= 1.01;
+      btnPlus.disabled = s >= S_MAX - 0.01;
+      if (s >= 2.5 && !detailDemande) chargerDetail();
+      cancelAnimationFrame(rafId);
+      rafId = requestAnimationFrame(() => { regrouper(); if (active) { placer(active); viser(active); } });
+    };
+    const zoomerEn = (facteur, mx, my, anime) => {
+      const { bx, by } = base();
+      const s2 = Math.min(S_MAX, Math.max(1, s * facteur));
+      const u = (mx - bx - tx) / s;
+      const v = (my - by - ty) / s;
+      s = s2;
+      tx = mx - bx - s * u;
+      ty = my - by - s * v;
+      appliquer(anime);
+    };
+    const cadrer = (x0, y0, x1, y1, anime = true) => {
+      const { bx, by, bw, bh, W, H } = base();
+      const larg = Math.max((x1 - x0) * bw, 1);
+      const haut = Math.max((y1 - y0) * bh, 1);
+      s = Math.min(S_MAX, Math.max(1, Math.min(W / larg, H / haut) * 0.9));
+      tx = W / 2 - bx - s * ((x0 + x1) / 2) * bw;
+      ty = H / 2 - by - s * ((y0 + y1) / 2) * bh;
+      appliquer(anime);
+    };
+    const reinitialiser = (anime = true) => { s = 1; tx = 0; ty = 0; appliquer(anime); };
+    const marquerRegion = (bouton) => regions.forEach((r) => { const on = r === bouton; r.classList.toggle("is-on", on); r.setAttribute("aria-pressed", String(on)); });
+
+    /* --- Tracé détaillé des frontières, chargé au premier zoom --- */
+    function chargerDetail() {
+      detailDemande = true;
+      fetch("/assets/monde-detail.txt").then((r) => (r.ok ? r.text() : Promise.reject())).then((d) => { if (d) terres.setAttribute("d", d); }).catch(() => {});
+    }
+
+    /* --- Fiche épisode --- */
+    const remplir = (pin, membres) => {
       const d = pin.dataset;
       const champ = (n) => $(`[data-f="${n}"]`, fiche);
       champ("type").textContent = d.type;
@@ -139,15 +245,14 @@
       champ("link").href = `/episodes/${d.id}/`;
       const autres = champ("others");
       autres.textContent = "";
-      const liste = (d.others || "").split(";;").filter(Boolean);
+      const liste = (membres || []).filter((m) => m !== pin).slice(0, 5);
       autres.hidden = !liste.length;
       if (liste.length) {
         autres.append("Aussi ici : ");
-        liste.forEach((item, i) => {
-          const [id, texte] = item.split("|");
+        liste.forEach((m, i) => {
           const a = document.createElement("a");
-          a.href = `/episodes/${id}/`;
-          a.textContent = texte;
+          a.href = `/episodes/${m.dataset.id}/`;
+          a.textContent = `${m.dataset.place} · ${m.dataset.title}`;
           autres.append(a);
           if (i < liste.length - 1) autres.append(" · ");
         });
@@ -159,13 +264,8 @@
     };
 
     const mobile = () => window.matchMedia("(max-width: 760px)").matches;
-    const placer = (pin) => {
-      if (mobile()) {
-        fiche.style.left = "";
-        fiche.style.top = "";
-        return;
-      }
-      // Desktop : la fiche se place à côté de l'épingle, du côté où il y a de la place.
+    function placer(pin) {
+      if (mobile()) { fiche.style.left = ""; fiche.style.top = ""; return; }
       const c = carte.getBoundingClientRect();
       const p = $(".pin-dot", pin).getBoundingClientRect();
       const w = fiche.offsetWidth;
@@ -179,14 +279,13 @@
       fiche.style.top = `${top}px`;
       fiche.style.setProperty("--ox", aDroite ? "0%" : "100%");
       fiche.style.setProperty("--oy", `${py - top}px`);
-    };
-
+    }
     const ouvrir = (pin) => {
       if (active) active.classList.remove("is-active");
       active = pin;
       pin.classList.add("is-active");
       pin.setAttribute("aria-expanded", "true");
-      remplir(pin);
+      remplir(pin, groupes.get(pin));
       fiche.hidden = false;
       placer(pin);
       viser(pin);
@@ -196,31 +295,140 @@
       }
       marquer();
     };
-    const fermer = () => {
-      if (active) {
-        active.classList.remove("is-active");
-        active.setAttribute("aria-expanded", "false");
-      }
+    function fermer() {
+      if (active) { active.classList.remove("is-active"); active.setAttribute("aria-expanded", "false"); }
       const precedente = active;
       active = null;
       fiche.hidden = true;
       repos();
       return precedente;
+    }
+
+    // Toucher une épingle : un groupe encore serré se déplie (zoom), sinon la fiche s'ouvre.
+    const toucher = (pin) => {
+      const membres = groupes.get(pin) || [pin];
+      if (membres.length > 1 && s < S_MAX - 0.01) {
+        const fx = membres.map((m) => parseFloat(m.dataset.fx));
+        const fy = membres.map((m) => parseFloat(m.dataset.fy));
+        const marge = 0.01;
+        const avant = s;
+        fermer();
+        cadrer(Math.min(...fx) - marge, Math.min(...fy) - marge, Math.max(...fx) + marge, Math.max(...fy) + marge);
+        marquerRegion(null);
+        if (s > avant * 1.05) return;
+      }
+      if (active === pin) fermer(); else ouvrir(pin);
     };
 
-    $$(".pin", carte).forEach((pin) => {
+    pins.forEach((pin) => {
       pin.setAttribute("aria-expanded", "false");
       pin.setAttribute("aria-controls", "pin-card");
       pin.addEventListener("mouseenter", () => viser(pin));
       pin.addEventListener("focus", () => viser(pin));
       pin.addEventListener("mouseleave", repos);
       pin.addEventListener("blur", repos);
-      pin.addEventListener("click", () => (active === pin ? fermer() : ouvrir(pin)));
+      pin.addEventListener("click", (e) => { if (glisse) { e.preventDefault(); return; } toucher(pin); });
     });
     $(".pin-card-close", fiche).addEventListener("click", () => { const p = fermer(); p && p.focus(); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape" && active) { const p = fermer(); p && p.focus(); } });
     document.addEventListener("click", (e) => { if (active && !e.target.closest(".pin, #pin-card")) fermer(); });
-    window.addEventListener("resize", () => { if (active) { placer(active); viser(active); } });
+
+    /* --- Boutons, régions, filtres --- */
+    btnPlus.addEventListener("click", () => { fermer(); zoomerEn(2, carte.clientWidth / 2, carte.clientHeight / 2, true); marquerRegion(null); });
+    btnMoins.addEventListener("click", () => {
+      fermer();
+      if (s / 2 <= 1.01) { reinitialiser(); marquerRegion(regions[0]); }
+      else { zoomerEn(0.5, carte.clientWidth / 2, carte.clientHeight / 2, true); marquerRegion(null); }
+    });
+    regions.forEach((r) => r.addEventListener("click", () => {
+      fermer();
+      marquerRegion(r);
+      if (!r.dataset.box) return reinitialiser();
+      const [x0, y0, x1, y1] = r.dataset.box.split(",").map(Number);
+      cadrer(x0, y0, x1, y1);
+    }));
+    const majFiltres = () => {
+      filtres.forEach((f) => { const on = themesActifs.has(f.dataset.theme); f.classList.toggle("is-on", on); f.setAttribute("aria-pressed", String(on)); });
+      resets.forEach((r) => { r.hidden = !themesActifs.size; });
+      carte.classList.toggle("is-filtered", themesActifs.size > 0);
+      regrouper();
+    };
+    filtres.forEach((f) => f.addEventListener("click", () => {
+      const t = f.dataset.theme;
+      themesActifs.has(t) ? themesActifs.delete(t) : themesActifs.add(t);
+      majFiltres();
+    }));
+    resets.forEach((r) => r.addEventListener("click", () => { themesActifs.clear(); majFiltres(); }));
+
+    /* --- Molette (avec Ctrl ou ⌘), double-clic, glisser, pincer --- */
+    let astuceTimer;
+    carte.addEventListener("wheel", (e) => {
+      if (!(e.ctrlKey || e.metaKey)) {
+        if (astuce) { astuce.classList.add("is-on"); clearTimeout(astuceTimer); astuceTimer = setTimeout(() => astuce.classList.remove("is-on"), 1400); }
+        return;
+      }
+      e.preventDefault();
+      fermer();
+      const c = carte.getBoundingClientRect();
+      zoomerEn(Math.exp(-e.deltaY * 0.0022), e.clientX - c.left, e.clientY - c.top, false);
+      marquerRegion(null);
+    }, { passive: false });
+    carte.addEventListener("dblclick", (e) => {
+      if (e.target.closest(".pin, .zoom, .map-legend")) return;
+      const c = carte.getBoundingClientRect();
+      fermer();
+      zoomerEn(2, e.clientX - c.left, e.clientY - c.top, true);
+      marquerRegion(null);
+    });
+
+    const pointeurs = new Map();
+    let glisse = false, depart = null, pince = null;
+    carte.addEventListener("pointerdown", (e) => {
+      if (e.target.closest(".zoom, .map-legend, #pin-card") || (e.pointerType === "mouse" && e.button !== 0)) return;
+      pointeurs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      glisse = false;
+      depart = { x: e.clientX, y: e.clientY, tx, ty };
+      if (pointeurs.size === 2) {
+        const [a, b] = [...pointeurs.values()];
+        pince = { d: Math.hypot(a.x - b.x, a.y - b.y), s };
+      }
+    });
+    carte.addEventListener("pointermove", (e) => {
+      if (!pointeurs.has(e.pointerId)) return;
+      pointeurs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      const c = carte.getBoundingClientRect();
+      if (pointeurs.size === 2 && pince) {
+        const [a, b] = [...pointeurs.values()];
+        const d = Math.hypot(a.x - b.x, a.y - b.y);
+        glisse = true;
+        fermer();
+        zoomerEn((pince.s * d) / pince.d / s, (a.x + b.x) / 2 - c.left, (a.y + b.y) / 2 - c.top, false);
+        marquerRegion(null);
+        return;
+      }
+      const dx = e.clientX - depart.x;
+      const dy = e.clientY - depart.y;
+      if (!glisse && Math.hypot(dx, dy) < 6) return;
+      const { bw, W } = base();
+      if (!glisse && s <= 1.01 && bw <= W + 1) return; // rien à déplacer à l'échelle 1
+      if (!glisse) { glisse = true; carte.setPointerCapture(e.pointerId); carte.classList.add("is-dragging"); fermer(); }
+      tx = depart.tx + dx;
+      ty = depart.ty + dy;
+      appliquer(false);
+    });
+    const lacher = (e) => {
+      pointeurs.delete(e.pointerId);
+      if (pointeurs.size < 2) pince = null;
+      if (pointeurs.size === 0) {
+        carte.classList.remove("is-dragging");
+        setTimeout(() => { glisse = false; }, 0);
+      }
+    };
+    carte.addEventListener("pointerup", lacher);
+    carte.addEventListener("pointercancel", lacher);
+
+    window.addEventListener("resize", () => appliquer(false));
+    appliquer(false);
 
     // Accueil : la boussole se tourne vers l'épisode le plus récent.
     const recent = $(".pin.is-latest", carte);

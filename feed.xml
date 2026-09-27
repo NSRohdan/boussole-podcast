@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boussole, l&#x27;actu décodée pour la HGGSP</title>
+    <link>https://nsrohdan.github.io/boussole-podcast/</link>
+    <atom:link href="https://nsrohdan.github.io/boussole-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>fr</language>
+    <description>Ma fille Jade est en Première, spécialité HGGSP. Pour l&#x27;aider à comprendre l&#x27;actualité à travers son programme, j&#x27;ai construit Boussole : chaque matin et chaque soir, deux voix, Léa et Hugo, décryptent l&#x27;actu et la relient aux thèmes du programme (démocratie, puissances, frontières, information, religions). Le samedi, on résume la semaine ; une fois par mois, on repart du programme pour relier les notions aux épisodes. Ça marche pour elle, alors je le partage. Transparence : les épisodes sont rédigés et mis en voix avec l&#x27;intelligence artificielle, selon des règles strictes d&#x27;exactitude et de neutralité ; je les écoute et j&#x27;en discute chaque jour avec Jade. Pour les lycéens, et pour les parents qui veulent suivre avec eux.</description>
+    <itunes:summary>Ma fille Jade est en Première, spécialité HGGSP. Pour l&#x27;aider à comprendre l&#x27;actualité à travers son programme, j&#x27;ai construit Boussole : chaque matin et chaque soir, deux voix, Léa et Hugo, décryptent l&#x27;actu et la relient aux thèmes du programme (démocratie, puissances, frontières, information, religions). Le samedi, on résume la semaine ; une fois par mois, on repart du programme pour relier les notions aux épisodes. Ça marche pour elle, alors je le partage. Transparence : les épisodes sont rédigés et mis en voix avec l&#x27;intelligence artificielle, selon des règles strictes d&#x27;exactitude et de neutralité ; je les écoute et j&#x27;en discute chaque jour avec Jade. Pour les lycéens, et pour les parents qui veulent suivre avec eux.</itunes:summary>
+    <itunes:author>Olivier, papa de Jade</itunes:author>
+    <itunes:image href="https://nsrohdan.github.io/boussole-podcast/cover.jpg"/>
+    <image><url>https://nsrohdan.github.io/boussole-podcast/cover.jpg</url><title>Boussole, l&#x27;actu décodée pour la HGGSP</title><link>https://nsrohdan.github.io/boussole-podcast/</link></image>
+    <itunes:category text="Education"><itunes:category text="Courses"/></itunes:category>
+    <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+  </channel>
+</rss>

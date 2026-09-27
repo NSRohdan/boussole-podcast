@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "2026-09-27-soir",
+    "date": "2026-09-27",
+    "type": "soir",
+    "titre": "Le pape à Lourdes : quand une religion mondiale doit rendre des comptes",
+    "resume": "Rencontre inédite du pape Léon XIV avec des victimes de violences sexuelles à Lourdes, discours sur la laïcité à l'Élysée : un dossier pour comprendre les tensions entre religion, laïcité et institutions, et l'agenda politique et budgétaire de la semaine à venir en France.",
+    "themes": "Thème 5, Thème 1",
+    "duree": 243,
+    "octets": 1456797,
+    "lieu": "Lourdes",
+    "coords": [
+      43.093,
+      -0.048
+    ]
+  }
+]

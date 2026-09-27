@@ -15,6 +15,22 @@
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Le pape à Lourdes : quand une religion mondiale doit rendre des comptes</title>
+      <description>Rencontre inédite du pape Léon XIV avec des victimes de violences sexuelles à Lourdes, discours sur la laïcité à l&#x27;Élysée : un dossier pour comprendre les tensions entre religion, laïcité et institutions, et l&#x27;agenda politique et budgétaire de la semaine à venir en France.
 
+Programme HGGSP : Thème 5, Thème 1.
+
+Transcription et épisodes par thème : https://boussolehggsp.fr/episodes/2026-09-27-soir/
+
+Voix de synthèse (Léa et Hugo) ; épisode préparé avec l&#x27;intelligence artificielle, selon des règles strictes d&#x27;exactitude et de neutralité.</description>
+      <link>https://boussolehggsp.fr/episodes/2026-09-27-soir/</link>
+      <guid isPermaLink="false">boussole-2026-09-27-soir</guid>
+      <pubDate>Sun, 27 Sep 2026 17:30:00 +0200</pubDate>
+      <enclosure url="https://boussolehggsp.fr/episodes/2026-09-27-soir.mp3" length="1456797" type="audio/mpeg"/>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

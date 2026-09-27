@@ -348,6 +348,37 @@ body.has-player .footer { padding-bottom: 150px; }
 .lost h1 { font: 400 clamp(36px, 5vw, 64px)/1.05 var(--display); letter-spacing: -.02em; margin: 30px 0 12px; }
 .lost .platforms { max-width: 720px; margin-top: 30px; }
 
+/* ---------- Pages thèmes ---------- */
+a.legend-row { text-decoration: none; }
+.legend-more { color: #CFCFCF; max-width: 36em; margin: 18px 0 0; font-size: 17px; }
+.foot-themes { margin-top: 22px; }
+.foot-themes ul { list-style: none; margin: 6px 0 0; padding: 0; display: grid; gap: 4px; font-family: var(--ui); font-size: 15px; }
+.foot-themes a { color: var(--white); }
+.th-hero { background: var(--yellow); border-bottom: var(--line); padding-block: clamp(36px, 5vw, 72px); }
+.th-title { display: flex; align-items: flex-start; gap: 18px; margin: 10px 0 18px; font-size: clamp(38px, 5.4vw, 70px); }
+.th-hero h1 { font: 400 1em/1 var(--display); letter-spacing: -.028em; margin: .08em 0 0; }
+.th-num { flex: none; display: inline-grid; place-items: center; width: 1.25em; height: 1.25em; border-radius: 12px; background: var(--tc); color: var(--tt); border: 4px solid var(--ink); box-shadow: 6px 6px 0 var(--ink); transform: rotate(-4deg); font-size: .8em; }
+.th-long { display: block; font: 800 clamp(22px, 2.6vw, 32px)/1.2 var(--text); letter-spacing: -.01em; margin-top: 12px; max-width: 26em; }
+.th-meta { font: 700 15px var(--ui); margin: 0; }
+.th-body { display: grid; gap: clamp(44px, 6vw, 72px); padding-block: clamp(44px, 6vw, 80px); max-width: 980px; }
+.th-block h2, .th-sub h2 { font: 400 clamp(28px, 3.4vw, 40px)/1.05 var(--display); letter-spacing: -.02em; margin: 0 0 8px; }
+.th-block .note { font: 500 15px var(--ui); color: var(--muted); margin: 0 0 22px; }
+.th-axes { list-style: none; counter-reset: axe; margin: 0; padding: 0; display: grid; gap: 12px; }
+.th-axes li { counter-increment: axe; display: grid; grid-template-columns: 44px 1fr; gap: 14px; align-items: center; font-size: 19px; font-weight: 700; }
+.th-axes li::before { content: counter(axe); display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: var(--yellow); border: var(--line); box-shadow: 3px 3px 0 var(--ink); font: 400 20px var(--display); }
+.notions { margin: 0; display: grid; gap: 0; border-top: var(--line); }
+.notion { display: grid; grid-template-columns: minmax(0, 15em) minmax(0, 1fr); gap: 8px 28px; padding: 18px 0; border-bottom: 2px solid #E6E0CC; }
+.notion dt { font: 400 21px/1.2 var(--display); letter-spacing: -.01em; }
+.notion dd { margin: 0; font-size: 17.5px; max-width: 62ch; }
+.th-others { gap: 10px; }
+.th-others .tchip { font-size: 15px; padding: 5px 14px; }
+.th-sub { box-shadow: 8px 8px 0 var(--purple); }
+.th-sub p { margin: 0 0 6px; max-width: 60ch; }
+@media (max-width: 760px) {
+  .notion { grid-template-columns: 1fr; }
+  .th-axes li { font-size: 17px; }
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 1080px) {
   .hero-grid { grid-template-columns: 1fr; }

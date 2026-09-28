@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-09-28-matin",
+    "date": "2026-09-28",
+    "type": "matin",
+    "titre": "49.3 : l'outil qui peut faire tomber un budget",
+    "resume": "Le budget 2027 s'annonce comme un nouveau bras de fer entre le gouvernement et le Parti socialiste. On explique pourquoi la France, sans majorité à l'Assemblée, doit compter sur l'article 49.3 de la Constitution, et quels risques ça fait courir. Au sommaire aussi : le détroit d'Ormuz, la guerre en Ukraine et la dernière étape du voyage du pape Léon XIV en France.",
+    "themes": "Thème 1, Thème 2, Thème 5",
+    "duree": 333,
+    "octets": 1999245,
+    "lieu": "Assemblée nationale, Paris",
+    "coords": [
+      48.86,
+      2.318
+    ]
+  },
+  {
     "id": "2026-09-27-soir",
     "date": "2026-09-27",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-09-28-soir",
+    "date": "2026-09-28",
+    "type": "soir",
+    "titre": "Metz, le Sénat et le bras de fer budgétaire",
+    "resume": "Le pape Léon XIV termine son voyage en France à Metz par un discours marquant sur l'Europe et la paix. Pendant ce temps, le Rassemblement national franchit une étape historique aux élections sénatoriales, et le bras de fer sur le budget 2027 reste bloqué à quelques jours du dépôt du texte.",
+    "themes": "Thème 5, Thème 2, Thème 1",
+    "duree": 305,
+    "octets": 1829325,
+    "lieu": "Metz",
+    "coords": [
+      49.119,
+      6.176
+    ]
+  },
+  {
     "id": "2026-09-28-matin",
     "date": "2026-09-28",
     "type": "matin",

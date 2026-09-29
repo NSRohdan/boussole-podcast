@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Boussole, l&#x27;actu décodée pour la HGGSP</title>
     <link>https://boussolehggsp.fr/</link>
@@ -16,6 +16,7 @@
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <podcast:guid>951f4632-4baf-5f1a-b4ec-8ef8d99af2ce</podcast:guid>
     <item>
       <title>Ormuz : le trafic remonte, pourquoi le baril reste cher</title>
       <description>Le trafic remonte dans le détroit d&#x27;Ormuz, mais le Brent reste autour de cent cinq dollars : la prime de risque expliquée. Le Qatar en médiateur, nouvelle nuit de frappes sur Kiev et Macron en Espagne face aux réseaux sociaux.
@@ -28,7 +29,7 @@ Voix de synthèse (Léa et Hugo) ; épisode préparé avec l&#x27;intelligence a
       <link>https://boussolehggsp.fr/episodes/2026-09-29-soir/</link>
       <guid isPermaLink="false">boussole-2026-09-29-soir</guid>
       <pubDate>Tue, 29 Sep 2026 17:30:00 +0200</pubDate>
-      <enclosure url="https://boussolehggsp.fr/episodes/2026-09-29-soir.mp3" length="1727805" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/boussolehggsp.fr/episodes/2026-09-29-soir.mp3" length="1727805" type="audio/mpeg"/>
       <itunes:duration>00:04:48</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -45,7 +46,7 @@ Voix de synthèse (Léa et Hugo) ; épisode préparé avec l&#x27;intelligence a
       <link>https://boussolehggsp.fr/episodes/2026-09-29-matin/</link>
       <guid isPermaLink="false">boussole-2026-09-29-matin</guid>
       <pubDate>Tue, 29 Sep 2026 06:30:00 +0200</pubDate>
-      <enclosure url="https://boussolehggsp.fr/episodes/2026-09-29-matin.mp3" length="1877997" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/boussolehggsp.fr/episodes/2026-09-29-matin.mp3" length="1877997" type="audio/mpeg"/>
       <itunes:duration>00:05:13</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -62,7 +63,7 @@ Voix de synthèse (Léa et Hugo) ; épisode préparé avec l&#x27;intelligence a
       <link>https://boussolehggsp.fr/episodes/2026-09-28-soir/</link>
       <guid isPermaLink="false">boussole-2026-09-28-soir</guid>
       <pubDate>Mon, 28 Sep 2026 17:30:00 +0200</pubDate>
-      <enclosure url="https://boussolehggsp.fr/episodes/2026-09-28-soir.mp3" length="1829325" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/boussolehggsp.fr/episodes/2026-09-28-soir.mp3" length="1829325" type="audio/mpeg"/>
       <itunes:duration>00:05:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -79,7 +80,7 @@ Voix de synthèse (Léa et Hugo) ; épisode préparé avec l&#x27;intelligence a
       <link>https://boussolehggsp.fr/episodes/2026-09-28-matin/</link>
       <guid isPermaLink="false">boussole-2026-09-28-matin</guid>
       <pubDate>Mon, 28 Sep 2026 06:30:00 +0200</pubDate>
-      <enclosure url="https://boussolehggsp.fr/episodes/2026-09-28-matin.mp3" length="1999245" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/boussolehggsp.fr/episodes/2026-09-28-matin.mp3" length="1999245" type="audio/mpeg"/>
       <itunes:duration>00:05:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -96,7 +97,7 @@ Voix de synthèse (Léa et Hugo) ; épisode préparé avec l&#x27;intelligence a
       <link>https://boussolehggsp.fr/episodes/2026-09-27-soir/</link>
       <guid isPermaLink="false">boussole-2026-09-27-soir</guid>
       <pubDate>Sun, 27 Sep 2026 17:30:00 +0200</pubDate>
-      <enclosure url="https://boussolehggsp.fr/episodes/2026-09-27-soir.mp3" length="1456797" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/boussolehggsp.fr/episodes/2026-09-27-soir.mp3" length="1456797" type="audio/mpeg"/>
       <itunes:duration>00:04:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

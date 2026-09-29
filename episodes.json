@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-09-29-soir",
+    "date": "2026-09-29",
+    "type": "soir",
+    "titre": "Ormuz : le trafic remonte, pourquoi le baril reste cher",
+    "resume": "Le trafic remonte dans le détroit d'Ormuz, mais le Brent reste autour de cent cinq dollars : la prime de risque expliquée. Le Qatar en médiateur, nouvelle nuit de frappes sur Kiev et Macron en Espagne face aux réseaux sociaux.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 288,
+    "octets": 1727805,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-09-29-matin",
     "date": "2026-09-29",
     "type": "matin",

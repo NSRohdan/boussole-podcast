@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-09-29-matin",
+    "date": "2026-09-29",
+    "type": "matin",
+    "titre": "Ormuz : pourquoi le pétrole reste cher même quand le trafic reprend",
+    "resume": "Les États-Unis et l'Iran négocient par médiateurs interposés pendant que Washington mise sur l'étranglement financier. Pourquoi le baril reste-t-il au-dessus de cent dollars ? On décode le prix de la peur, l'arme économique et la médiation, avec la guerre des tankers et le choc de 1973 en toile de fond.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 313,
+    "octets": 1877997,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-09-28-soir",
     "date": "2026-09-28",
     "type": "soir",

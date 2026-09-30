@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-09-30-soir",
+    "date": "2026-09-30",
+    "type": "soir",
+    "titre": "Ormuz : une réponse américaine dont personne ne connaît le contenu",
+    "resume": "Le budget 2027 est déposé sans accord, et Washington a répondu à l'Iran sans que le contenu soit connu. Pourquoi passer par des médiateurs, quel parallèle avec 1981, et comment lire « les États-Unis ont répondu » ? Épisode préparé avec l'intelligence artificielle.",
+    "themes": "Thème 2, Thème 1, Thème 4",
+    "duree": 294,
+    "octets": 1763373,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-09-30-matin",
     "date": "2026-09-30",
     "type": "matin",

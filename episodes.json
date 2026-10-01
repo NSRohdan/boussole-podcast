@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-01-soir",
+    "date": "2026-10-01",
+    "type": "soir",
+    "titre": "Pétrole cher, taux américains au plus haut : Ormuz pèse sur les marchés",
+    "resume": "Ce soir : la réponse américaine à l'Iran reste secrète, le pétrole reste autour de 100 dollars et les taux d'emprunt américains atteignent leur plus haut depuis 2007. On explique le lien, on revient sur l'Irak et la souveraineté, et on apprend à comparer deux chiffres.",
+    "themes": "Thème 2, Thème 4, Thème 3",
+    "duree": 273,
+    "octets": 1635645,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-10-01-matin",
     "date": "2026-10-01",
     "type": "matin",

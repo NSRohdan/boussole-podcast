@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-01-matin",
+    "date": "2026-10-01",
+    "type": "matin",
+    "titre": "Irak : pourquoi les Américains s'en vont en pleine guerre",
+    "resume": "Les États-Unis ont achevé leur retrait d'Irak après douze ans de présence. Que veut dire « souveraineté » ? Pourquoi partir en pleine guerre contre l'Iran ? Parallèle avec 2011, budget 2027, Ukraine et Ormuz. Épisode préparé avec l'intelligence artificielle.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 318,
+    "octets": 1908237,
+    "lieu": "Bagdad",
+    "coords": [
+      33.315,
+      44.366
+    ]
+  },
+  {
     "id": "2026-09-30-soir",
     "date": "2026-09-30",
     "type": "soir",

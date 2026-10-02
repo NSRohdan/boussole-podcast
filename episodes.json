@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-02-soir",
+    "date": "2026-10-02",
+    "type": "soir",
+    "titre": "Budget, Ormuz : quand un chiffre en cache un autre",
+    "resume": "Le PS somme le gouvernement de modifier son budget sans délai : pourquoi sans majorité absolue chaque allié a un prix ? Ormuz est-il vraiment rouvert ? Tout dépend de ce qu'on mesure. Et que faut-il pour accuser un État ?",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 291,
+    "octets": 1744077,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-10-02-matin",
     "date": "2026-10-02",
     "type": "matin",

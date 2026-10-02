@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-02-matin",
+    "date": "2026-10-02",
+    "type": "matin",
+    "titre": "Vol Flydubai : quand un fait divers menace de devenir une guerre",
+    "resume": "Un copilote poignarde le commandant d'un vol Flydubai ; Donald Trump évoque un lien avec l'Iran, sans preuve publique. Comment l'attribution d'un acte à un État peut-elle ouvrir la voie à une riposte, et comment distinguer fait, affirmation et hypothèse ?",
+    "themes": "Thème 2, Thème 4",
+    "duree": 317,
+    "octets": 1901037,
+    "lieu": "Dubaï",
+    "coords": [
+      25.2,
+      55.27
+    ]
+  },
+  {
     "id": "2026-10-01-soir",
     "date": "2026-10-01",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-03-soir",
+    "date": "2026-10-03",
+    "type": "soir",
+    "titre": "Kiev : pourquoi frapper les ponts d'une capitale",
+    "resume": "Les frappes russes sur les ponts de Kiev, pourquoi viser une infrastructure à double usage, et comment lire les mots de chaque camp. Avec un détour par la Serbie de 1999, les élections en Lettonie et la question de l'attribution.",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 299,
+    "octets": 1796493,
+    "lieu": "Kiev",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-10-03-bilan",
     "date": "2026-10-03",
     "type": "bilan",

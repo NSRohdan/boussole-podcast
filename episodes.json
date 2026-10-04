@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-04-soir",
+    "date": "2026-10-04",
+    "type": "soir",
+    "titre": "Lettonie : arriver en tête, est-ce gagner ?",
+    "resume": "Les résultats lettons sont presque définitifs : la Liste unie a 42 sièges sur 100, mais il en faut 51. Pourquoi arriver en tête ne suffit pas à gouverner, pourquoi un résultat partiel n'est jamais définitif, et ce que l'Opep plus a décidé aujourd'hui.",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 262,
+    "octets": 1572141,
+    "lieu": "Riga",
+    "coords": [
+      56.949,
+      24.105
+    ]
+  },
+  {
     "id": "2026-10-04-matin",
     "date": "2026-10-04",
     "type": "matin",

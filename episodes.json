@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-04-matin",
+    "date": "2026-10-04",
+    "type": "matin",
+    "titre": "Lettonie : pourquoi un si petit pays compte pour la France",
+    "resume": "Les Lettons ont voté ce week-end, et personne n'a la majorité. Pourquoi un pays de moins de deux millions d'habitants, frontalier de la Russie, intéresse-t-il la France ? On décode le scrutin proportionnel, l'article 5 de l'OTAN et la mémoire de la Voie balte.",
+    "themes": "Thème 1, Thème 3",
+    "duree": 325,
+    "octets": 1952445,
+    "lieu": "Riga, Lettonie",
+    "coords": [
+      56.95,
+      24.11
+    ]
+  },
+  {
     "id": "2026-10-03-soir",
     "date": "2026-10-03",
     "type": "soir",

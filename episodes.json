@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-05-soir",
+    "date": "2026-10-05",
+    "type": "soir",
+    "titre": "Kiev : « Nous restons », et le G7 ouvre ses stocks de carburant",
+    "resume": "Face à l'avertissement de Moscou, les ambassades européennes restent à Kiev et invoquent la convention de Vienne. Pendant ce temps, le G7 libère jusqu'à cent millions de barils de ses stocks d'urgence : pourquoi cela ne suffit pas à faire baisser durablement le prix, et qui paie la facture ?",
+    "themes": "Thème 2, Thème 4",
+    "duree": 284,
+    "octets": 1705917,
+    "lieu": "Kiev",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-10-05-matin",
     "date": "2026-10-05",
     "type": "matin",

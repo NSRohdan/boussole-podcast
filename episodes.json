@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-05-matin",
+    "date": "2026-10-05",
+    "type": "matin",
+    "titre": "Kiev : pourquoi une raffinerie russe fait monter ton plein",
+    "resume": "Depuis quatre jours, la Russie frappe les ponts de Kiev et avertit les diplomates étrangers, tandis que l'Ukraine promet de redoubler ses frappes sur les raffineries russes. Pourquoi cela peut-il se voir à la pompe en France ? On décode, avec le Blitz de 1940 et la convention de Vienne de 1961.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 323,
+    "octets": 1937757,
+    "lieu": "Kiev",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-10-04-soir",
     "date": "2026-10-04",
     "type": "soir",

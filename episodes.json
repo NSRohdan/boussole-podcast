@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-06-matin",
+    "date": "2026-10-06",
+    "type": "matin",
+    "titre": "Pétrole : il circule, mais les prix ne baissent pas",
+    "resume": "Les exportations du Golfe sont revenues à leur niveau d'avant-guerre, et pourtant le baril reste autour de cent dollars. Pourquoi ? Risque, stocks bas et incertitude, avec un détour par l'embargo de 1973. Et une proposition de rencontre à trois sur l'Ukraine.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 311,
+    "octets": 1865037,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-10-05-soir",
     "date": "2026-10-05",
     "type": "soir",

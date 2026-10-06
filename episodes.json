@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-06-soir",
+    "date": "2026-10-06",
+    "type": "soir",
+    "titre": "Pétrole : le baril à cent dollars, et l'Arabie saoudite baisse ses prix",
+    "resume": "Le pétrole du Golfe circule comme avant la guerre, mais les attaques de pétroliers se multiplient. Pourquoi l'Arabie saoudite baisse-t-elle ses prix pour l'Asie et les augmente-t-elle pour l'Europe ? Mécanisme, parallèle avec 1985-1986 et lien avec le programme de HGGSP.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 269,
+    "octets": 1612317,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-10-06-matin",
     "date": "2026-10-06",
     "type": "matin",

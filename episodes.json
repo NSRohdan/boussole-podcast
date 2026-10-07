@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-07-soir",
+    "date": "2026-10-07",
+    "type": "soir",
+    "titre": "Kiev, Ormuz : comment savoir ce qui s'est vraiment passé ?",
+    "resume": "Le matin d'une attaque, chaque chiffre est provisoire : comment lire un bilan sans se tromper ? Léa et Hugo expliquent l'asymétrie des coûts entre drones et intercepteurs, font le point sur le pétrole et le détroit d'Ormuz, et donnent trois réflexes pour vérifier une information en temps de guerre.",
+    "themes": "Thème 4, Thème 2, Thème 1",
+    "duree": 249,
+    "octets": 1495101,
+    "lieu": "Kiev",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-10-07-matin",
     "date": "2026-10-07",
     "type": "matin",

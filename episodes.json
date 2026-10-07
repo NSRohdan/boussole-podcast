@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-07-matin",
+    "date": "2026-10-07",
+    "type": "matin",
+    "titre": "Kiev : prévenir ne suffit pas à protéger",
+    "resume": "Une attaque massive de missiles et de drones frappe Kiev, un jour après l'alerte de Zelensky. Pourquoi savoir ne suffit pas à protéger ? On décode l'asymétrie des coûts, la guerre des villes des années 1980 et un pétrole sous tension.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 324,
+    "octets": 1943373,
+    "lieu": "Kiev",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-10-06-soir",
     "date": "2026-10-06",
     "type": "soir",

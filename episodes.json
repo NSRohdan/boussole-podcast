@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-08-matin",
+    "date": "2026-10-08",
+    "type": "matin",
+    "titre": "Lycéens mobilisés : 1968, 1986, 1990… que dit l'Histoire ?",
+    "resume": "Depuis la fin septembre, des lycéens bloquent leurs établissements et manifestent. Que demandent-ils, comment l'État répond-il, et que nous apprennent les mouvements de 1968, 1986, 1990, 1994, 2006 et 2018 ? Un épisode pour comprendre pourquoi réclamer des moyens est plus long que faire retirer une loi.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 348,
+    "octets": 2087805,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-07-soir",
     "date": "2026-10-07",
     "type": "soir",

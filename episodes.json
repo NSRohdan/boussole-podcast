@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-08-soir",
+    "date": "2026-10-08",
+    "type": "soir",
+    "titre": "Manifestation : 256 000 ou 450 000, qui dit vrai ?",
+    "resume": "Une manifestation, deux chiffres : comment lire un comptage, un mot comme « perturbé » ou un bilan provisoire. Et pourquoi des moyens pour l'école sont plus longs à obtenir que le retrait d'une loi.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 291,
+    "octets": 1745517,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-08-matin",
     "date": "2026-10-08",
     "type": "matin",

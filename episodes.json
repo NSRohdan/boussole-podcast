@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-09-matin",
+    "date": "2026-10-09",
+    "type": "matin",
+    "titre": "Ormuz : pourquoi deux pétroliers font bondir le baril",
+    "resume": "Deux pétroliers touchés hors du détroit d'Ormuz et le Brent grimpe de près de cinq pour cent alors que le détroit est déjà fermé. On décode la prime de risque, le déni d'accès et la guerre des tankers de 1984-1988, puis le point sur l'Ukraine, le prix Nobel de la paix et l'abolition de la peine de mort en 1981.",
+    "themes": "Thème 2, Thème 4, Thème 1",
+    "duree": 347,
+    "octets": 2081613,
+    "lieu": "Golfe d'Oman",
+    "coords": [
+      25.2,
+      56.4
+    ]
+  },
+  {
     "id": "2026-10-08-soir",
     "date": "2026-10-08",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-09-soir",
+    "date": "2026-10-09",
+    "type": "soir",
+    "titre": "Nobel de la paix : et si c'était une juge ?",
+    "resume": "Le Nobel de la paix 2026 revient à la juriste Navi Pillay. Que peut le droit sans police ? On remonte à Nuremberg, puis on décode le trafic de pétroliers à Ormuz au plus bas et la différence entre une fourchette et un chiffre exact.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 293,
+    "octets": 1758045,
+    "lieu": "Oslo",
+    "coords": [
+      59.913,
+      10.752
+    ]
+  },
+  {
     "id": "2026-10-09-matin",
     "date": "2026-10-09",
     "type": "matin",

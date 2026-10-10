@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-10-soir",
+    "date": "2026-10-10",
+    "type": "soir",
+    "titre": "Diesel russe, primaire attaquée : qui fait respecter ce qu'on annonce ?",
+    "resume": "Après l'accord sur le diesel russe, une nouvelle frappe sur Zaporijia : fait établi ou lecture d'un acteur ? On décode aussi la primaire de la gauche, visée par une cyberattaque, et on corrige le quiz de la semaine.",
+    "themes": "Thème 2, Thème 1, Thème 4",
+    "duree": 297,
+    "octets": 1784253,
+    "lieu": "Zaporijia",
+    "coords": [
+      47.84,
+      35.14
+    ]
+  },
+  {
     "id": "2026-10-10-bilan",
     "date": "2026-10-10",
     "type": "bilan",

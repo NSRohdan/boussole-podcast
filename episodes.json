@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-11-soir",
+    "date": "2026-10-11",
+    "type": "soir",
+    "titre": "Primaire attaquée : une élection en ligne, est-ce une vraie élection ?",
+    "resume": "Dimanche soir : un « cessez-le-feu énergétique » annoncé par Donald Trump mais non confirmé par Kiev ni Moscou, puis un entraînement à la dissertation sur la primaire de la gauche votée en ligne et visée par une cyberattaque. Une élection en ligne est-elle une élection comme une autre ?",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 252,
+    "octets": 1512237,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-11-matin",
     "date": "2026-10-11",
     "type": "matin",

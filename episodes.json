@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-11-matin",
+    "date": "2026-10-11",
+    "type": "matin",
+    "titre": "Riyad touchée : pourquoi un détroit du Yémen coûte cher à ton plein",
+    "resume": "Un missile houthi frappe l'aéroport de Riyad : douze morts et trois cent neuf blessés selon les autorités saoudiennes. Pourquoi le détroit de Bab el-Mandeb, au Yémen, compte pour le pétrole même si la France n'y passe pas ; acteurs non étatiques, Suez 1956 ; tour du monde Ukraine, primaire de la gauche, article 11 et Brésil.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 342,
+    "octets": 2052813,
+    "lieu": "Détroit de Bab el-Mandeb",
+    "coords": [
+      12.6,
+      43.3
+    ]
+  },
+  {
     "id": "2026-10-10-soir",
     "date": "2026-10-10",
     "type": "soir",

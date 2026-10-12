@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-12-matin",
+    "date": "2026-10-12",
+    "type": "matin",
+    "titre": "Le pape opéré : que pèse un chef religieux sans armée ?",
+    "resume": "Le pape Léon XIV annonce une opération d'un nodule au poumon. Pourquoi la santé d'un chef religieux, à la tête d'un État de quarante-quatre hectares, compte-t-elle sur la scène internationale ? Saint-Siège et Cité du Vatican, soft power, précédents historiques. Au programme aussi : la primaire de la gauche, les « cafards » en Inde et l'annonce d'un cessez-le-feu énergétique en Ukraine.",
+    "themes": "Thème 5, Thème 1, Thème 2",
+    "duree": 398,
+    "octets": 2386029,
+    "lieu": "Cité du Vatican",
+    "coords": [
+      41.903,
+      12.453
+    ]
+  },
+  {
     "id": "2026-10-11-soir",
     "date": "2026-10-11",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-12-soir",
+    "date": "2026-10-12",
+    "type": "soir",
+    "titre": "Trêve énergétique : un accord que personne ne signe",
+    "resume": "Trump a annoncé un cessez-le-feu énergétique entre la Russie et l'Ukraine, mais Kiev accuse Moscou de frappes et le Kremlin se tait. Pourquoi une trêve sans périmètre ni contrôle n'en est pas une, et peut-on voter sous les bombes ? Avec la correction du quiz du matin.",
+    "themes": "Thème 2, Thème 1, Thème 4",
+    "duree": 271,
+    "octets": 1624557,
+    "lieu": "Kiev",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-10-12-matin",
     "date": "2026-10-12",
     "type": "matin",

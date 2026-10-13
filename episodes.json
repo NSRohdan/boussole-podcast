@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-13-soir",
+    "date": "2026-10-13",
+    "type": "soir",
+    "titre": "Lycéens : qui dit vrai sur le nombre de manifestants ?",
+    "resume": "Acte cinq du mouvement lycéen : cortèges, incidents, revendications et surtout des chiffres de manifestants qui varient d'un facteur dix selon qui compte. On apprend à lire un chiffre, on compare avec 1986 et 2006, et on corrige le quiz du matin (quotas, précédent de 1981, trêve énergétique).",
+    "themes": "Thème 1, Thème 4",
+    "duree": 294,
+    "octets": 1761933,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-13-matin",
     "date": "2026-10-13",
     "type": "matin",

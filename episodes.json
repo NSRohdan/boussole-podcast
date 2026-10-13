@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-13-matin",
+    "date": "2026-10-13",
+    "type": "matin",
+    "titre": "Voitures chinoises : pourquoi l'Europe pose un plafond",
+    "resume": "L'Union européenne et la Chine s'entendent pour limiter à 350 000 par an les hybrides chinoises vendues en Europe. Pourquoi protéger l'industrie automobile, qui paie, et qu'en dit l'Histoire ? Aussi : trêve énergétique en Ukraine, cyberattaque contre des supermarchés, élections palestiniennes reportées.",
+    "themes": "Thème 2",
+    "duree": 357,
+    "octets": 2142381,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-12-soir",
     "date": "2026-10-12",
     "type": "soir",

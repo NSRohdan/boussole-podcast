@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-14-matin",
+    "date": "2026-10-14",
+    "type": "matin",
+    "titre": "Mer Noire : pourquoi l'OTAN ne réagit pas",
+    "resume": "Deux navires frappés par des drones à 33 km des côtes bulgares : pourquoi l'article 5 de l'OTAN n'est-il pas déclenché ? On explique le droit de la mer (eaux territoriales, zone économique exclusive), puis un tour du monde : le pape opéré, Ceuta, la Hongrie.",
+    "themes": "Thème 3, Thème 2",
+    "duree": 327,
+    "octets": 1964397,
+    "lieu": "Mer Noire, au large de la Bulgarie",
+    "coords": [
+      43.2,
+      28.3
+    ]
+  },
+  {
     "id": "2026-10-13-soir",
     "date": "2026-10-13",
     "type": "soir",

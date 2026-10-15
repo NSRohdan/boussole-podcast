@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-15-soir",
+    "date": "2026-10-15",
+    "type": "soir",
+    "titre": "Mer Noire : des navires en feu devant la Roumanie",
+    "resume": "Deux pétroliers en feu au large de la Roumanie, pays de l'OTAN, et des marins disparus : pourquoi l'article 5 n'est pas automatique, ce que change le prix de l'essence américain pour la guerre en Ukraine, et la correction du quiz du matin.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 294,
+    "octets": 1765677,
+    "lieu": "Côte roumaine, mer Noire",
+    "coords": [
+      44.7,
+      29.9
+    ]
+  },
+  {
     "id": "2026-10-15-matin",
     "date": "2026-10-15",
     "type": "matin",

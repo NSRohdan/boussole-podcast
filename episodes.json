@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-15-matin",
+    "date": "2026-10-15",
+    "type": "matin",
+    "titre": "Turquie : une chaîne pas interdite, mais plus libre ?",
+    "resume": "Mercredi, la police a pris le contrôle de Halk TV, principale chaîne d'opposition turque, et un administrateur a été placé à sa tête. Peut-on parler de censure si la chaîne n'est pas interdite ? Contre-pouvoirs, pluralisme, un détour par l'histoire, puis un tour d'actualité : Ormuz, Albanie, lycéens français, Starlink.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 337,
+    "octets": 2022717,
+    "lieu": "Istanbul",
+    "coords": [
+      41.008,
+      28.978
+    ]
+  },
+  {
     "id": "2026-10-14-soir",
     "date": "2026-10-14",
     "type": "soir",

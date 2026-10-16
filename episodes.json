@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-16-matin",
+    "date": "2026-10-16",
+    "type": "matin",
+    "titre": "Lycéens : le mouvement est-il vraiment en train de s'essouffler ?",
+    "resume": "Moins de lycées bloqués, est-ce la fin d'un mouvement ? On décode le bras de fer entre les lycéens et le ministre, la journée du 17 octobre et le parallèle avec les gilets jaunes. Au programme aussi : Brésil, sommet européen et Ukraine.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 350,
+    "octets": 2100621,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-15-soir",
     "date": "2026-10-15",
     "type": "soir",

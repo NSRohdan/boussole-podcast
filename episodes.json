@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-10-17-bilan",
+    "date": "2026-10-17",
+    "type": "bilan",
+    "titre": "Bilan de la semaine : qui tient le levier ?",
+    "resume": "Lycéens, navires frappés en mer Noire, Starlink et l'Ukraine, Halk TV en Turquie, Albanie : cinq événements de la semaine, ce qu'ils ont en commun (le levier), les notions du programme et des questions pour s'entraîner.",
+    "themes": "Thème 1, Thème 2, Thème 3, Thème 4",
+    "duree": 527,
+    "octets": 3162045
+  },
+  {
     "id": "2026-10-16-soir",
     "date": "2026-10-16",
     "type": "soir",

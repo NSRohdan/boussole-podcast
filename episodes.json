@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-17-soir",
+    "date": "2026-10-17",
+    "type": "soir",
+    "titre": "17 octobre : pourquoi les heurts font-ils plus de bruit que les cortèges ?",
+    "resume": "Lycéens, gilets jaunes et syndicats ont défilé contre la vie chère. Pourquoi les heurts dominent-ils les titres alors que la majorité défile calmement ? Chiffres officiels, cadrage médiatique et parallèle avec 2018, puis Starlink, l'Albanie et la correction du quiz de la semaine.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 299,
+    "octets": 1795053,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-17-bilan",
     "date": "2026-10-17",
     "type": "bilan",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-18-matin",
+    "date": "2026-10-18",
+    "type": "matin",
+    "titre": "17 octobre : les violences aident-elles un mouvement ?",
+    "resume": "Au lendemain de la journée contre la vie chère, on décode les bilans, la doctrine du maintien de l'ordre et ce que l'Histoire (gilets jaunes 2018) dit des violences en manifestation. Puis un tour du monde express : Brésil, Yémen, Alberta.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 330,
+    "octets": 1979373,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-17-soir",
     "date": "2026-10-17",
     "type": "soir",

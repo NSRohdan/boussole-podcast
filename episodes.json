@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-18-soir",
+    "date": "2026-10-18",
+    "type": "soir",
+    "titre": "17 octobre : pourquoi les chiffres des arrestations changent-ils sans cesse ?",
+    "resume": "Entre 1 200 et 2 000 interpellations en quelques heures : qui compte quoi, et à quelle heure ? Léa et Hugo décodent les bilans du 17 octobre, rappellent le précédent de 2005, et proposent un exercice de croquis sur la mer Noire.",
+    "themes": "Thème 1, Thème 3, Thème 4",
+    "duree": 287,
+    "octets": 1724205,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-18-matin",
     "date": "2026-10-18",
     "type": "matin",

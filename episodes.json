@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-19-soir",
+    "date": "2026-10-19",
+    "type": "soir",
+    "titre": "Couvre-feu ou état d'urgence : quelle différence ?",
+    "resume": "Ce soir, des couvre-feux locaux sont demandés en France sans déclarer l'état d'urgence. Quelle différence juridique, que dit le précédent de 2005, et comment la presse étrangère raconte-t-elle la même scène ? Avec la correction du quiz du matin.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 297,
+    "octets": 1782525,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-19-matin",
     "date": "2026-10-19",
     "type": "matin",

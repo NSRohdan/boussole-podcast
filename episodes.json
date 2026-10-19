@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-19-matin",
+    "date": "2026-10-19",
+    "type": "matin",
+    "titre": "17 octobre : pourquoi le discours de Macron ne satisfait personne",
+    "resume": "Après les violences du 17 octobre, Emmanuel Macron s'adresse aux Français. Pourquoi un discours à la fois ferme et conciliant est-il critiqué par tous les camps ? Parallèle avec de Gaulle en mai 1968, puis tour du monde : consultation en Alberta, débat Lula–Bolsonaro, guerre de l'énergie à Saint-Pétersbourg.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 354,
+    "octets": 2121933,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-18-soir",
     "date": "2026-10-18",
     "type": "soir",

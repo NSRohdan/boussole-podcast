@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-20-matin",
+    "date": "2026-10-20",
+    "type": "matin",
+    "titre": "La colère des jeunes gagne l'Europe : une vague ou une coïncidence ?",
+    "resume": "De Milan à Madrid, de Lisbonne à Tirana, les jeunes manifestent contre la vie chère, le logement ou la corruption. Est-ce une même vague ou des causes semblables sans lien ? On distingue contagion et coïncidence, avec le précédent des Indignés de 2011. Au tour du monde : Alberta, COP17 sur la biodiversité.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 342,
+    "octets": 2054253,
+    "lieu": "Milan",
+    "coords": [
+      45.464,
+      9.19
+    ]
+  },
+  {
     "id": "2026-10-19-soir",
     "date": "2026-10-19",
     "type": "soir",

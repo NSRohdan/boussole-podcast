@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-20-soir",
+    "date": "2026-10-20",
+    "type": "soir",
+    "titre": "Couvre-feu : une nuit calme prouve-t-elle qu'il marche ?",
+    "resume": "Première nuit de couvre-feux en France : calme, mais pourquoi ? Une nuit tranquille prouve-t-elle l'efficacité d'une mesure ? On revient aussi sur l'Alberta, qui refuse l'indépendance, et sur la guerre des drones au Soudan. Avec un rappel des pièges à éviter sur la contagion et la consultation.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 320,
+    "octets": 1921485,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-20-matin",
     "date": "2026-10-20",
     "type": "matin",

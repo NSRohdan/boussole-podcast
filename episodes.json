@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-21-matin",
+    "date": "2026-10-21",
+    "type": "matin",
+    "titre": "Émeutes du 17 octobre : qui récupère les images ?",
+    "resume": "Les violences du 17 octobre sont citées dans la campagne américaine et au cœur d'un débat sur les ingérences. Récupération ou ingérence : quelle différence, et peut-on dire qui a provoqué quoi ? Avec aussi Ebola au Nigeria, Witkoff chez Poutine et le Golfe.",
+    "themes": "Thème 4, Thème 2",
+    "duree": 337,
+    "octets": 2019693,
+    "lieu": "Marseille",
+    "coords": [
+      43.296,
+      5.37
+    ]
+  },
+  {
     "id": "2026-10-20-soir",
     "date": "2026-10-20",
     "type": "soir",

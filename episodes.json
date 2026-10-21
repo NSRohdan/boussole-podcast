@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-21-soir",
+    "date": "2026-10-21",
+    "type": "soir",
+    "titre": "Matignon : une réunion sans mesure, un échec ?",
+    "resume": "Les syndicats sortent déçus de Matignon et la CGT appelle à la grève à partir du 5 novembre. Macron dénonce des commentaires « stupides » de dirigeants étrangers sur le 17 octobre, sans les nommer. Et en Ukraine, Moscou se dit prête à reprendre les pourparlers à trois après le 10 novembre.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 330,
+    "octets": 1979517,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-10-21-matin",
     "date": "2026-10-21",
     "type": "matin",

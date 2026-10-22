@@ -1,0 +1,35 @@
+Léa: Un État américain de deux millions d'habitants vient d'infliger à Meta, la maison mère de Facebook et d'Instagram, la plus grosse amende de son histoire : vingt-cinq milliards de dollars. Mais pourquoi un si petit État, et pas Washington ?
+Hugo: Attends, vingt-cinq milliards ? Pour des données personnelles ? Là, tu as toute mon attention.
+Léa: Ici Boussole, l'actu décodée pour la HGGSP. Nous, Léa et Hugo, sommes des voix de synthèse, et l'épisode est préparé avec l'intelligence artificielle.
+Hugo: On est le jeudi vingt-deux octobre. Léa, pose-nous les faits.
+Léa: Mercredi, un juge du Nouveau-Mexique a condamné Meta à payer vingt-cinq milliards de dollars. Le motif : avoir trompé les habitants de l'État sur l'utilisation de leurs données personnelles. Selon Le Monde, la somme grossira de trois milliards sept cent cinquante millions de dollars par an, soit quinze pour cent d'intérêts, tant qu'elle n'est pas payée.
+Hugo: Et ça vient de quoi, cette affaire ?
+Léa: Du scandale Cambridge Analytica. Retour en deux mille dix-huit : on découvre que les données de dizaines de millions d'utilisateurs de Facebook ont été exploitées pour du ciblage politique. Autrement dit, on a utilisé ce que tu avais liké, partagé, commenté, pour te montrer des messages choisis pour toi, à des fins électorales.
+Hugo: Donc ce qu'on laisse derrière nous en ligne a une valeur politique.
+Léa: Exactement. Et le procureur général du Nouveau-Mexique parle d'un des plus importants jugements, sinon le plus important, obtenu par un État contre une entreprise dans l'histoire américaine.
+Hugo: Et Meta, elle dit quoi ? Parce qu'on doit entendre les deux côtés.
+Léa: Meta conteste. D'après France 24, l'entreprise a annoncé qu'elle ferait appel, et son directeur juridique juge la décision excessive. Ça veut dire que l'argent ne sera pas versé tout de suite : la procédure peut durer longtemps.
+Hugo: Revenons à ta question d'ouverture. Pourquoi le Nouveau-Mexique ?
+Léa: Voilà la question qui dérange. Aux États-Unis, c'est un système fédéral : chaque État a ses propres lois de protection des consommateurs et son propre procureur. Les autres États avaient réglé l'affaire à l'amiable. Le Nouveau-Mexique est le seul à avoir été jusqu'au procès, selon Le Temps. Et un seul État qui va jusqu'au bout suffit à faire tomber une amende record.
+Hugo: Donc ce n'est pas le pays tout entier qui frappe. C'est un morceau du puzzle.
+Léa: C'est ça. Et ça nous apprend quelque chose sur la puissance. Meta n'est pas un État, pourtant elle détient des informations sur des utilisateurs du monde entier. Les spécialistes parlent de puissance privée. Mais face à elle, un pouvoir public, même minuscule, peut encore fixer les règles. C'est ce qu'on appelle la régulation : le pouvoir de poser des règles du jeu, et de sanctionner ceux qui les enfreignent.
+Hugo: Et l'Europe là-dedans ? Parce que nous aussi on utilise ces plateformes.
+Léa: L'Europe a choisi une autre voie : une règle commune à tous les pays de l'Union, le règlement général sur la protection des données, entré en application en deux mille dix-huit. Là, c'est la loi qui encadre à l'avance. Aux États-Unis, c'est plutôt le juge qui sanctionne après coup. Deux manières de réguler, deux philosophies.
+Hugo: Et pour nous, lycéens, qu'est-ce que ça change concrètement ?
+Léa: D'abord, ça rappelle que tes données sont un bien qui a de la valeur. Ensuite, ça touche à la démocratie : si on peut te montrer des messages choisis pour toi sans que tu le saches, est-ce que tu votes vraiment librement ?
+Hugo: Et justement, il y a une élection très proche qui pose cette question.
+Léa: Le Brésil. Le second tour a lieu dimanche. Le camp de Lula accuse Meta de limiter la diffusion de ses messages au profit de son rival, Flávio Bolsonaro. Meta dément toute manipulation. Et chacun des deux candidats a déposé un recours devant la justice électorale, en invoquant notamment un usage abusif des réseaux sociaux. Attention : ce sont des accusations, rien n'est établi à cette heure.
+Hugo: Donc la question « un réseau social peut-il influencer un vote ? » n'est plus théorique.
+Léa: Non. Et c'est tout le Thème quatre du programme : s'informer, avec un regard critique sur les sources et les modes de communication. Plus un peu du Thème un, la démocratie.
+Hugo: Un détour par l'Histoire ?
+Léa: En mille neuf cent onze, la Cour suprême américaine ordonne le démantèlement de Standard Oil, le géant du pétrole, jugé trop puissant. À l'époque, la crainte, c'était qu'une entreprise contrôle une ressource essentielle. Aujourd'hui, la ressource, ce sont les données.
+Hugo: Mais ici, personne ne démantèle Meta, non ?
+Léa: Non, et c'est la grande différence. Il s'agit d'une amende, pas d'un démantèlement, et elle est contestée en appel. On est loin de Standard Oil.
+Hugo: Alors, trois idées à retenir ?
+Léa: Un : un État, même petit, peut faire plier une multinationale grâce au droit. Deux : réguler, c'est fixer les règles, et l'Europe et les États-Unis ne le font pas de la même façon. Trois : les données ne sont pas neutres, elles peuvent peser sur une élection, et c'est pour ça qu'il faut garder un regard critique sur ce qu'on voit en ligne.
+Hugo: Un dernier mot sur l'actu française ?
+Léa: Jeudi à Matignon, le Premier ministre reçoit les maires, puis les partis, après avoir reçu les syndicats mercredi. Des manifestations sont interdites ce jeudi dans plusieurs secteurs de Paris et de Lyon. Et le taux auquel la France emprunte sur dix ans a franchi le seuil de cinq pour cent, selon plusieurs médias : c'est la première fois depuis deux mille deux.
+Hugo: Cinq pour cent, ça veut dire que l'État paie plus cher pour emprunter. Donc moins d'argent pour le reste.
+Léa: C'est le principe. Et côté Ukraine, Moscou se dit prêt, en principe, à reprendre des discussions à trois, et le président ukrainien y est favorable, alors que Kiev a encore été visée par des frappes dans la nuit.
+Hugo: Question pour la fin, Jade, et toi qui écoutes : si tu étais juge, est-ce qu'une amende de vingt-cinq milliards suffit à changer le comportement d'une entreprise ? Réfléchis-y : la réponse arrive ce soir.
+Léa: À ce soir.

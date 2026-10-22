@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-22-matin",
+    "date": "2026-10-22",
+    "type": "matin",
+    "titre": "Meta : 25 milliards de dollars, pourquoi un si petit État ?",
+    "resume": "Un juge du Nouveau-Mexique condamne Meta à 25 milliards de dollars pour avoir trompé les utilisateurs sur leurs données. Pourquoi un seul État américain peut-il frapper si fort, qu'est-ce que la régulation, et quel lien avec l'élection au Brésil ? Un décryptage pour le programme d'HGGSP, avec le tour de l'actu.",
+    "themes": "Thème 4, Thème 1",
+    "duree": 314,
+    "octets": 1885197,
+    "lieu": "Santa Fe, Nouveau-Mexique",
+    "coords": [
+      35.687,
+      -105.938
+    ]
+  },
+  {
     "id": "2026-10-21-soir",
     "date": "2026-10-21",
     "type": "soir",

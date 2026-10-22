@@ -1,0 +1,32 @@
+Léa: Hier, une partie d'Internet s'est mise volontairement hors ligne, pour se protéger. Et ce soir, une question : peut-on se protéger d'un danger… en s'éteignant ?
+Hugo: Attends, des sites qui se coupent exprès ? Ça existe, ça ?
+Léa: Ça vient d'arriver, partout dans le monde. On y vient.
+Hugo: Ici Boussole, l'actu décodée pour la HGGSP. Nous, Léa et Hugo, sommes des voix de synthèse, et l'épisode est préparé avec l'intelligence artificielle.
+Léa: Nous sommes jeudi vingt-deux octobre, il est dix-sept heures. Jade, et toi qui écoutes, reprenons depuis ce matin. D'abord la France. Ce matin, on se demandait si une réunion à Matignon pouvait calmer la rue.
+Hugo: Et alors ?
+Léa: Réponse du président en début d'après-midi. Emmanuel Macron a annoncé que, samedi, seules les manifestations organisées par des syndicats seront autorisées. Il a dénoncé des actes qu'il juge politiques et séditieux, conduits selon lui par des groupes d'ultragauche, qui voudraient faire tomber la République.
+Hugo: Donc plus de rassemblement sans syndicat ?
+Léa: Samedi, à Paris, un seul parcours est autorisé, entre Bastille et Nation, pour les organisations syndicales étudiantes, lycéennes et de salariés. Celui que réclamaient des gilets jaunes et un collectif étudiant est refusé. Et le dispositif de sécurité sera renforcé de vingt pour cent, a annoncé un ministre.
+Hugo: Et les oppositions ?
+Léa: Olivier Faure, du Parti socialiste, dénonce une réponse seulement sécuritaire à un sujet d'abord politique. Voilà pour les faits. Maintenant, un peu d'analyse, et attention, ce sont des lectures, pas des faits.
+Hugo: Vas-y.
+Léa: Hier, on se demandait qui était le bon interlocuteur d'un mouvement sans chef. Le gouvernement vient de répondre à sa façon : les syndicats. En ne reconnaissant qu'eux, il choisit ses partenaires. Mais c'est un pari : ceux qui se sentent exclus, des lycéens, des gilets jaunes, peuvent soit rester chez eux, soit manifester quand même.
+Hugo: Et ça pose un vrai problème de principe, non ? Manifester, c'est un droit.
+Léa: Exactement, et c'est le cœur du Thème un du programme : la démocratie, c'est aussi la liberté de se rassembler. Elle peut être limitée pour l'ordre public, mais la limite doit rester proportionnée. Réserver le droit de manifester à certains organisateurs, c'est le genre de question que les juges examinent. D'ailleurs, aujourd'hui, un juge a déjà retoqué l'interdiction d'un cortège étudiant, selon franceinfo.
+Léa: Un précédent : fin deux mille quinze, après les attentats du treize novembre, l'état d'urgence avait servi à interdire des manifestations, pendant la conférence sur le climat à Paris. La ressemblance : l'ordre public l'emporte provisoirement. La différence : le motif était une menace terroriste, pas une colère sociale.
+Hugo: Bon, maintenant, ton Internet qui s'éteint.
+Léa: Deux failles de sécurité très graves ont été découvertes dans PHP, un langage informatique qui fait tourner environ soixante-dix pour cent des sites du web, selon plusieurs médias. Et ce qui frappe, c'est l'origine : des intelligences artificielles les ont repérées, avant même que les experts ne les voient.
+Hugo: Et pourquoi couper les sites ? Ce n'est pas plus dangereux de ne rien faire ?
+Léa: Voilà la question qui dérange. Dès qu'une faille est rendue publique, les pirates se précipitent pour l'exploiter, et ils le font très vite. Tant que le correctif n'est pas installé, le plus sûr est de débrancher. Des milliers de sites ont donc été mis hors ligne dans le monde. Au Royaume-Uni, trente-deux services publics sont suspendus, et le Guardian rapporte qu'aucune trace de piratage de l'État n'a été trouvée à ce stade. En France, des sites de services publics sont encore perturbés, et des tentatives d'attaque se multiplient, selon Le Figaro.
+Hugo: Donc une seule brique logicielle sous plus de la moitié du web, et tout tremble.
+Léa: C'est exactement l'idée de point de passage obligé, qu'on avait vue avec le détroit d'Ormuz. Là, ce n'est pas un détroit, c'est une brique logicielle. En deux mille quatorze, une faille appelée Heartbleed avait déjà secoué Internet. La différence : cette fois, c'est une intelligence artificielle qui trouve les failles, donc des attaquants pourraient en faire autant.
+Hugo: Côté programme ?
+Léa: Thème deux : la puissance, c'est aussi protéger ses infrastructures numériques.
+Hugo: Trois autres infos rapides ?
+Léa: Oui. Un : le Parlement européen a décerné le prix Sakharov, qui récompense la liberté de pensée, à la Cour pénale internationale, la justice qui juge les crimes de guerre. Les États-Unis lui ont imposé des sanctions début octobre : c'est donc, selon Le Monde, un message de fermeté face à Washington. Deux : au Moyen-Orient, une attaque des Houthis, un mouvement armé du Yémen soutenu par l'Iran, a tué deux personnes dans un aéroport de l'est de l'Arabie saoudite, et le pétrole est à son plus haut depuis cinq mois, d'après le Guardian. Trois : en Ukraine, les frappes ont repris quelques heures après la rencontre entre l'émissaire américain et Vladimir Poutine, et sept personnes sont mortes dans la nuit, selon les autorités ukrainiennes.
+Hugo: Et la correction de ce matin ?
+Léa: Première question : pourquoi un seul État américain peut-il condamner Meta ? Parce que les États-Unis sont une fédération : chaque État a ses lois de protection des consommateurs et son procureur, qui peut aller en justice. Deuxième : réguler à l'avance, comme le RGPD européen, c'est fixer des règles communes avant. Réguler après coup, c'est un juge qui sanctionne, comme au Nouveau-Mexique. Troisième : le taux d'emprunt, c'est le prix auquel les investisseurs prêtent à l'État, pas un impôt.
+Hugo: Dernier point : un piège fréquent ?
+Léa: Beaucoup croient que fermer un site, c'est un échec. En cybersécurité, c'est parfois la meilleure défense.
+Hugo: Et la question pour demain ?
+Léa: Samedi, seuls les cortèges syndicaux sont autorisés. Selon toi, quand on réserve la rue à certains, ceux qu'on écarte renoncent-ils, ou trouvent-ils un autre moyen de se faire entendre ? Réfléchis-y, Jade, et toi qui écoutes, on en reparle demain matin.

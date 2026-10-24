@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-24-soir",
+    "date": "2026-10-24",
+    "type": "soir",
+    "titre": "Trappes : une phrase du président fait polémique",
+    "resume": "Après l'attaque de Trappes, le « c'est la première fois » du président fait débat : pourquoi un superlatif se vérifie, et comment distinguer ce que dit un suspect, ce que rapporte un journal et ce que juge un tribunal. Avec le suivi de la mobilisation du 24 octobre, la note de la France par Moody's et la correction du quiz de la semaine.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 329,
+    "octets": 1975773,
+    "lieu": "Trappes",
+    "coords": [
+      48.775,
+      1.996
+    ]
+  },
+  {
     "id": "2026-10-24-bilan",
     "date": "2026-10-24",
     "type": "bilan",

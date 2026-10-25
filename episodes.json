@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-25-matin",
+    "date": "2026-10-25",
+    "type": "matin",
+    "titre": "Serbie et Brésil : qui dit qu'un résultat est juste ?",
+    "resume": "Deux pays votent le même dimanche, la Serbie et le Brésil, dans des scrutins annoncés serrés. Qui peut dire qu'un résultat est juste ? Les trois garde-fous d'une élection, avec un détour par Brasília en 2023, puis la mobilisation en France, la Cisjordanie et la visite de Kim Jong-un en Chine.",
+    "themes": "Thème 1, Thème 4, Thème 2",
+    "duree": 351,
+    "octets": 2106957,
+    "lieu": "Belgrade et Brasília",
+    "coords": [
+      44.8,
+      20.46
+    ]
+  },
+  {
     "id": "2026-10-24-soir",
     "date": "2026-10-24",
     "type": "soir",

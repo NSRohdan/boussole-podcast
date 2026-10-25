@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-10-25-mensuel",
+    "date": "2026-10-25",
+    "type": "mensuel",
+    "titre": "Le programme en revue : démocratie, puissances, frontières, information",
+    "resume": "Premier épisode mensuel : on part du programme de Première HGGSP, pas de l'actu. Pour chaque thème, les notions clés redéfinies simplement et les épisodes du mois où elles sont apparues. Au programme : élections et légitimité, hard power et soft power, points de passage obligés, frontières et souveraineté, regard critique sur l'information. Épisodes cités : https://boussolehggsp.fr/episodes/2026-09-28-matin/ (49.3), https://boussolehggsp.fr/episodes/2026-10-29-matin/ , https://boussolehggsp.fr/episodes/2026-09-29-matin/ (Ormuz), https://boussolehggsp.fr/episodes/2026-10-23-matin/ (Serbie), https://boussolehggsp.fr/episodes/2026-10-25-matin/ (légitimité d'un résultat), https://boussolehggsp.fr/episodes/2026-10-14-matin/ (mer Noire), https://boussolehggsp.fr/episodes/2026-10-08-soir/ (chiffres), https://boussolehggsp.fr/episodes/2026-10-21-soir/ (dire, déduire, prouver).",
+    "themes": "Thème 1, Thème 2, Thème 3, Thème 4, Thème 5",
+    "duree": 606,
+    "octets": 3635661
+  },
+  {
     "id": "2026-10-25-matin",
     "date": "2026-10-25",
     "type": "matin",

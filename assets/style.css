@@ -272,6 +272,10 @@ a.tchip:hover { transform: translateY(-2px) rotate(-2deg); }
 .ai p, .ai li { font-size: 16.5px; }
 .ai ul { padding-left: 20px; margin: 8px 0 14px; }
 .ai li::marker { color: var(--purple); }
+.ai .ai-steps { list-style: none; padding: 0; margin: 10px 0 16px; display: grid; gap: 10px; }
+.ai-steps li { background: var(--cream); border: 2px solid var(--ink); border-radius: 14px; padding: 10px 14px; line-height: 1.45; }
+.ai-tag { display: inline-block; font: 700 12.5px/1 var(--ui); background: var(--purple); color: var(--white); border: 2px solid var(--ink); border-radius: 999px; padding: 4px 10px; margin-right: 8px; vertical-align: 2px; }
+.ai-tag-human { background: var(--yellow); color: var(--ink); }
 
 /* FAQ */
 .faq { max-width: 900px; }

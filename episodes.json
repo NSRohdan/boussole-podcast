@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-26-matin",
+    "date": "2026-10-26",
+    "type": "matin",
+    "titre": "Serbie, Brésil : comment perd-on une élection ?",
+    "resume": "Deux élections, deux façons de perdre : en Serbie, Aleksandar Vučić reconnaît sa défaite face au mouvement étudiant ; au Brésil, Flávio Bolsonaro annonce qu'il va demander l'annulation du scrutin. Contester devant un juge ou refuser le verdict : quelle différence pour la démocratie ? Avec le précédent Al Gore en 2000, et un tour d'actualité (lycéens et Parcoursup, Bulgarie, Venezuela).",
+    "themes": "Thème 1",
+    "duree": 352,
+    "octets": 2109981,
+    "lieu": "Belgrade",
+    "coords": [
+      44.787,
+      20.457
+    ]
+  },
+  {
     "id": "2026-10-25-mensuel",
     "date": "2026-10-25",
     "type": "mensuel",

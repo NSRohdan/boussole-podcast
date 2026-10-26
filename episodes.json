@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-26-soir",
+    "date": "2026-10-26",
+    "type": "soir",
+    "titre": "Brésil : un perdant qui ne reconnaît pas sa défaite",
+    "resume": "Depuis ce matin, Flávio Bolsonaro a durci le ton après sa défaite face à Lula, la Bourse de São Paulo a chuté et la Serbie confirme son tournant. En France, le gouvernement répond aux lycéens sur Parcoursup, et l'Algérie envoie des soldats au Niger.",
+    "themes": "Thème 1, Thème 2",
+    "duree": 270,
+    "octets": 1620669,
+    "lieu": "Brasília",
+    "coords": [
+      -15.79,
+      -47.88
+    ]
+  },
+  {
     "id": "2026-10-26-matin",
     "date": "2026-10-26",
     "type": "matin",

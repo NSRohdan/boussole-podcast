@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-27-soir",
+    "date": "2026-10-27",
+    "type": "soir",
+    "titre": "Israël vote : un résultat serré, qui le déclare ?",
+    "resume": "Participation record en Israël, où les résultats ne sont pas encore connus ; au Brésil, le parti de Flávio Bolsonaro reconnaît la victoire de Lula mais pas lui ; frappes jordaniennes en Syrie. Qui arbitre une élection, et comment lire des bilans contradictoires ?",
+    "themes": "Thème 1, Thème 5",
+    "duree": 292,
+    "octets": 1754445,
+    "lieu": "Jérusalem",
+    "coords": [
+      31.77,
+      35.21
+    ]
+  },
+  {
     "id": "2026-10-27-matin",
     "date": "2026-10-27",
     "type": "matin",

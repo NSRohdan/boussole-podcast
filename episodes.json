@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-27-matin",
+    "date": "2026-10-27",
+    "type": "matin",
+    "titre": "Israël vote : pourquoi ne saura-t-on pas ce soir qui gouverne ?",
+    "resume": "Les Israéliens votent aujourd'hui, mais aucun parti n'a jamais obtenu seul la majorité. Léa et Hugo expliquent le scrutin proportionnel, les coalitions et le rôle des faiseurs de rois, puis font le point sur Parcoursup et l'Algérie au Niger.",
+    "themes": "Thème 1, Thème 3",
+    "duree": 330,
+    "octets": 1980093,
+    "lieu": "Israël",
+    "coords": [
+      31.77,
+      35.21
+    ]
+  },
+  {
     "id": "2026-10-26-soir",
     "date": "2026-10-26",
     "type": "soir",

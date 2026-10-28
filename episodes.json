@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-28-soir",
+    "date": "2026-10-28",
+    "type": "soir",
+    "titre": "Espagne : qui répond d'un accident de train ?",
+    "resume": "Deux trains à grande vitesse, l'un arrêté, l'autre autorisé à repartir : ce que l'on sait de la collision en Espagne et ce que cela dit de la responsabilité en démocratie. En Israël, le décompte avance : 67 sièges pour l'opposition sur le papier, mais pas de gouvernement sans les partis arabes. Correction du quiz du matin.",
+    "themes": "Thème 1, Thème 3, Thème 4",
+    "duree": 301,
+    "octets": 1806285,
+    "lieu": "Urda (Tolède), Espagne",
+    "coords": [
+      39.42,
+      -3.72
+    ]
+  },
+  {
     "id": "2026-10-28-matin",
     "date": "2026-10-28",
     "type": "matin",

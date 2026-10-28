@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-28-matin",
+    "date": "2026-10-28",
+    "type": "matin",
+    "titre": "Israël : le premier parti a-t-il gagné ?",
+    "resume": "Au lendemain des législatives israéliennes, aucun camp n'a la majorité selon les estimations. Pourquoi arriver en tête ne suffit pas à gouverner, ce que sont les résultats provisoires, et deux autres actus : la trêve d'Olechky en Ukraine et la fermeture d'un média indépendant en Égypte.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 335,
+    "octets": 2011053,
+    "lieu": "Jérusalem",
+    "coords": [
+      31.77,
+      35.21
+    ]
+  },
+  {
     "id": "2026-10-27-soir",
     "date": "2026-10-27",
     "type": "soir",

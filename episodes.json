@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-29-matin",
+    "date": "2026-10-29",
+    "type": "matin",
+    "titre": "Mbappé et Mao : un mème peut-il déclencher un incident diplomatique ?",
+    "resume": "Kylian Mbappé s'excuse auprès de la Chine après avoir traité Mao Zedong de dictateur : sponsors perdus, matchs de la Liga arrêtés. Pourquoi punir un championnat entier pour une phrase ? On décode le levier économique, avec le précédent de la NBA en 2019. Au tour du monde : Brésil, Israël, Espagne, climat et santé.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 338,
+    "octets": 2029485,
+    "lieu": "Pékin",
+    "coords": [
+      39.904,
+      116.407
+    ]
+  },
+  {
     "id": "2026-10-28-soir",
     "date": "2026-10-28",
     "type": "soir",

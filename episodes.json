@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-29-soir",
+    "date": "2026-10-29",
+    "type": "soir",
+    "titre": "Israël : une accusation sans preuve peut-elle changer un résultat ?",
+    "resume": "Après le vote israélien, une enquête est demandée sur de possibles financements étrangers : rien n'est prouvé, mais le soupçon pèse déjà. Au programme aussi : la collision de trains en Espagne, le départ anticipé de Christine Lagarde de la BCE, la frappe sur Dnipro, et la correction du quiz du matin.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 316,
+    "octets": 1898733,
+    "lieu": "Jérusalem",
+    "coords": [
+      31.77,
+      35.21
+    ]
+  },
+  {
     "id": "2026-10-29-matin",
     "date": "2026-10-29",
     "type": "matin",

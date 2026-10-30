@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-30-matin",
+    "date": "2026-10-30",
+    "type": "matin",
+    "titre": "Russie–Afrique : Moscou est-elle vraiment isolée ?",
+    "resume": "Vingt-deux dirigeants africains à Moscou pour le sommet Russie–Afrique : pourquoi un pays sous sanctions occidentales reste-t-il courtisé ? On décode la multipolarité, les chiffres de Poutine et le jeu des partenaires africains, puis un tour du monde (sommet UE–Canada, sanctions américaines contre le Rwanda, Israël).",
+    "themes": "Thème 2, Thème 4",
+    "duree": 339,
+    "octets": 2031645,
+    "lieu": "Moscou",
+    "coords": [
+      55.756,
+      37.617
+    ]
+  },
+  {
     "id": "2026-10-29-soir",
     "date": "2026-10-29",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-30-soir",
+    "date": "2026-10-30",
+    "type": "soir",
+    "titre": "Novaïa Gazeta : un journal peut-il disparaître sans être interdit ?",
+    "resume": "Le journal indépendant russe Novaïa Gazeta annonce sa fermeture sous la pression des autorités, selon sa rédaction. Comment fait-on disparaître un journal sans l'interdire ? Avec la correction du quiz du matin, Israël, Olechky et l'Espagne.",
+    "themes": "Thème 4, Thème 1, Thème 2",
+    "duree": 320,
+    "octets": 1917453,
+    "lieu": "Moscou",
+    "coords": [
+      55.756,
+      37.617
+    ]
+  },
+  {
     "id": "2026-10-30-matin",
     "date": "2026-10-30",
     "type": "matin",

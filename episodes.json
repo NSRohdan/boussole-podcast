@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-31-soir",
+    "date": "2026-10-31",
+    "type": "soir",
+    "titre": "Pologne : qui surveille les juges qui surveillent le pouvoir ?",
+    "resume": "Le Tribunal constitutionnel polonais est au cœur d'un bras de fer entre le président et le gouvernement. Qui contrôle les juges ? On décode la séparation des pouvoirs, avec un détour par l'histoire, puis un point sur la mobilisation en France et les autres infos du jour.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 299,
+    "octets": 1797213,
+    "lieu": "Varsovie",
+    "coords": [
+      52.23,
+      21.01
+    ]
+  },
+  {
     "id": "2026-10-31-bilan",
     "date": "2026-10-31",
     "type": "bilan",

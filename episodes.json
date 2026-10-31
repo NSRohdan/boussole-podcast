@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-10-31-bilan",
+    "date": "2026-10-31",
+    "type": "bilan",
+    "titre": "Cinq événements, un seul réflexe : chercher le mécanisme",
+    "resume": "Sommet Russie–Afrique, fermeture de Novaïa Gazeta, législatives en Israël, Mbappé et la Chine, train en Espagne : le bilan de la semaine, les notions du programme à retenir et des questions pour s'entraîner.",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 523,
+    "octets": 3137277
+  },
+  {
     "id": "2026-10-30-soir",
     "date": "2026-10-30",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-01-matin",
+    "date": "2026-11-01",
+    "type": "matin",
+    "titre": "Iran : la guerre attend-elle les midterms ?",
+    "resume": "Le Guide suprême iranien menace d'une riposte sans limite géographique, Washington n'a « pas pris de décision » : pourquoi le calendrier électoral américain pèse sur la guerre. On explique les midterms, la médiation du Qatar, le parallèle de 1980, puis le tour du monde : Pologne, jeunesse en colère, Bulgarie, Dakar.",
+    "themes": "Thème 2, Thème 1",
+    "duree": 354,
+    "octets": 2122941,
+    "lieu": "Détroit d'Ormuz",
+    "coords": [
+      26.6,
+      56.3
+    ]
+  },
+  {
     "id": "2026-10-31-soir",
     "date": "2026-10-31",
     "type": "soir",

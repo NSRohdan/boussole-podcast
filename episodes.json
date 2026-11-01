@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-01-soir",
+    "date": "2026-11-01",
+    "type": "soir",
+    "titre": "Étude critique : que dit vraiment cette phrase sur la Pologne ?",
+    "resume": "Dimanche soir, entraînement méthode : on apprend à lire un document comme un détective, à partir d'une phrase de la Commission européenne sur la crise du Tribunal constitutionnel polonais. Au passage, ce qui a bougé sur l'Iran, la correction du quiz du matin et les rendez-vous de la semaine.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 290,
+    "octets": 1739901,
+    "lieu": "Varsovie",
+    "coords": [
+      52.23,
+      21.01
+    ]
+  },
+  {
     "id": "2026-11-01-matin",
     "date": "2026-11-01",
     "type": "matin",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-02-matin",
+    "date": "2026-11-02",
+    "type": "matin",
+    "titre": "Midterms : un vote américain peut-il relancer la guerre ?",
+    "resume": "La veille des élections de mi-mandat américaines : ce que le Congrès peut vraiment faire (budget, enquêtes, nominations), pourquoi il reste un frein et non un interrupteur face à une reprise des frappes en Iran, le précédent de 2006. Au tour du monde : Bulgarie, Olechky, Yémen.",
+    "themes": "Thème 1, Thème 2",
+    "duree": 387,
+    "octets": 2320941,
+    "lieu": "Washington",
+    "coords": [
+      38.907,
+      -77.037
+    ]
+  },
+  {
     "id": "2026-11-01-soir",
     "date": "2026-11-01",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-02-soir",
+    "date": "2026-11-02",
+    "type": "soir",
+    "titre": "Fausses alertes nucléaires : la peur passe par le téléphone",
+    "resume": "Une alerte officielle annonce des ogives nucléaires… et c'est faux. Ce soir : les applications d'alerte piratées en Ukraine et en Russie, des frigos de supermarchés visés en Europe, et l'Iran qui propose de rouvrir Ormuz sous conditions, pendant que Trump menace encore.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 310,
+    "octets": 1858557,
+    "lieu": "Kyiv",
+    "coords": [
+      50.45,
+      30.52
+    ]
+  },
+  {
     "id": "2026-11-02-matin",
     "date": "2026-11-02",
     "type": "matin",

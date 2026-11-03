@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-03-soir",
+    "date": "2026-11-03",
+    "type": "soir",
+    "titre": "Pétition contre CNews : que peut vraiment faire l'Assemblée ?",
+    "resume": "Une pétition dépasse les cinq cent mille signatures sur le site de l'Assemblée nationale : comment ça marche, quel est le rôle de l'Arcom, et pourquoi le même chiffre change selon l'heure ? Au programme aussi : les frappes américaines sur l'île iranienne de Qeshm, désormais confirmées, et la correction du quiz du matin sur les élections américaines.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 313,
+    "octets": 1877277,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-03-matin",
     "date": "2026-11-03",
     "type": "matin",

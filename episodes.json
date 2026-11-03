@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-03-matin",
+    "date": "2026-11-03",
+    "type": "matin",
+    "titre": "Midterms : qui décide qui a gagné ?",
+    "resume": "Les Américains votent aujourd'hui, mais les résultats ne tomberont pas tous en même temps. Pourquoi, qui annonce le vainqueur, et que change la décision de la Cour suprême sur les bulletins californiens ? Avec le point sur l'Iran, l'Ukraine et le piratage record de Binance.",
+    "themes": "Thème 1, Thème 2",
+    "duree": 366,
+    "octets": 2193501,
+    "lieu": "Washington",
+    "coords": [
+      38.907,
+      -77.037
+    ]
+  },
+  {
     "id": "2026-11-02-soir",
     "date": "2026-11-02",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-04-matin",
+    "date": "2026-11-04",
+    "type": "matin",
+    "titre": "Midterms : Trump n'était pas candidat, pourquoi a-t-il perdu ?",
+    "resume": "Les démocrates auraient la majorité au Sénat, et la Chambre est annoncée par les projections sans être encore acquise. Que perd concrètement un président quand le Congrès change de camp ? On parle aussi de l'aide américaine à Israël, de la démission d'un ministre espagnol et de responsabilité politique.",
+    "themes": "Thème 1, Thème 2",
+    "duree": 338,
+    "octets": 2029053,
+    "lieu": "Washington",
+    "coords": [
+      38.89,
+      -77.009
+    ]
+  },
+  {
     "id": "2026-11-03-soir",
     "date": "2026-11-03",
     "type": "soir",

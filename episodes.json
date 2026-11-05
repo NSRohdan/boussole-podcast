@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-05-soir",
+    "date": "2026-11-05",
+    "type": "soir",
+    "titre": "Grève du 5 novembre : pourquoi les chiffres ne s'accordent pas",
+    "resume": "Trois chiffres de manifestants, trois heures, trois auteurs : on apprend à lire un bilan de grève. Avec la réponse à la question du matin sur le poids des lycéens, le contrecoup des midterms américains, Ormuz et l'Ukraine.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 307,
+    "octets": 1843293,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-05-matin",
     "date": "2026-11-05",
     "type": "matin",

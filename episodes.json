@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-05-matin",
+    "date": "2026-11-05",
+    "type": "matin",
+    "titre": "Grève du 5 novembre : les lycéens pèsent-ils autant que les salariés ?",
+    "resume": "Les syndicats appellent à une journée de grève avec lycéens et étudiants. Grève, manifestation, blocus : qu'est-ce qui les distingue en droit, et pourquoi la jonction des mobilisations inquiète-t-elle le pouvoir ? Parallèle avec le CPE de 2006, puis Vance et la guerre en Iran, et Joshua Wong à Hong Kong.",
+    "themes": "Thème 1, Thème 2",
+    "duree": 338,
+    "octets": 2025741,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-04-soir",
     "date": "2026-11-04",
     "type": "soir",

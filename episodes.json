@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-06-soir",
+    "date": "2026-11-06",
+    "type": "soir",
+    "titre": "SMIC : le gouvernement ouvre la porte, mais n'a rien décidé",
+    "resume": "Depuis ce matin, le ministre du Travail juge important de franchir la barre des 1 500 euros net pour le SMIC. Ouvrir la porte, est-ce décider ? On décode le coup de pouce, les branches professionnelles et le tassement des salaires, avec un parallèle de 2018. Aussi : la condamnation de l'opposant tanzanien Tundu Lissu et le voyage du pape.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 263,
+    "octets": 1576749,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-06-matin",
     "date": "2026-11-06",
     "type": "matin",

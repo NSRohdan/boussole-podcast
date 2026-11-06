@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-06-matin",
+    "date": "2026-11-06",
+    "type": "matin",
+    "titre": "Le SMIC augmente tout seul : alors pourquoi manifester ?",
+    "resume": "Après la plus forte journée de grève de l'automne, Matignon convoque syndicats et patronat. Le SMIC monte automatiquement : que demandent alors les manifestants, et pourquoi le gouvernement hésite-t-il à donner un coup de pouce ? Avec le pape en Amérique latine, Hegseth visé et l'Ukraine.",
+    "themes": "Thème 1, Thème 5, Thème 2",
+    "duree": 329,
+    "octets": 1972605,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-05-soir",
     "date": "2026-11-05",
     "type": "soir",

@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-11-07-bilan",
+    "date": "2026-11-07",
+    "type": "bilan",
+    "titre": "Bilan de la semaine : qu'est-ce qui peut contraindre un pouvoir ?",
+    "resume": "Midterms américains, grève et SMIC en France, Iran, destitution du président du Paraguay, voyage du pape en Amérique latine : cinq événements de la semaine, un fil rouge (les contre-pouvoirs), les notions du programme à retenir et un quiz pour s'entraîner.",
+    "themes": "Thème 1, Thème 2, Thème 4, Thème 5",
+    "duree": 554,
+    "octets": 3325773
+  },
+  {
     "id": "2026-11-06-soir",
     "date": "2026-11-06",
     "type": "soir",

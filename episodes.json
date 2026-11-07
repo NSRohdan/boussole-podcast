@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-07-soir",
+    "date": "2026-11-07",
+    "type": "soir",
+    "titre": "Acte IV : moins de monde dans la rue, le mouvement a-t-il perdu ?",
+    "resume": "Quatrième samedi de mobilisation en France : 46 000 personnes à Paris selon la préfecture de police, « net recul » selon l'entourage de l'Intérieur. Un chiffre mesure-t-il la force d'un mouvement ? Avec le parallèle de 2018, la Nouvelle-Zélande sans gagnant net, les frappes sur l'Ukraine avant les pourparlers, et la correction du quiz de la semaine.",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 322,
+    "octets": 1930557,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-07-bilan",
     "date": "2026-11-07",
     "type": "bilan",

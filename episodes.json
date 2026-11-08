@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-08-soir",
+    "date": "2026-11-08",
+    "type": "soir",
+    "titre": "Cracovie : qui a le droit de dire « terrorisme » ?",
+    "resume": "Après la tuerie de Cracovie, qui qualifie un drame de terrorisme : le parquet, le Premier ministre, un ministre ? On sépare ce qui est établi de ce qui reste à prouver, on répond à la question du matin sur le pape, et on s'entraîne à la dissertation : la rue et la négociation sociale complètent-elles ou concurrencent-elles le vote ?",
+    "themes": "Thème 1, Thème 2, Thème 4",
+    "duree": 302,
+    "octets": 1811037,
+    "lieu": "Cracovie",
+    "coords": [
+      50.062,
+      19.937
+    ]
+  },
+  {
     "id": "2026-11-08-matin",
     "date": "2026-11-08",
     "type": "matin",

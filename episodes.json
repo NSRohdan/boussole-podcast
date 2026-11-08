@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-08-matin",
+    "date": "2026-11-08",
+    "type": "matin",
+    "titre": "Le pape en Amérique du Sud : une voix sans pouvoir ?",
+    "resume": "Opéré d'un cancer du poumon il y a trois semaines, le pape Léon XIV est en tournée en Uruguay puis en Argentine. Sans armée ni électeurs, que pèse sa parole face aux pouvoirs politiques ? On décode le soft power du Vatican, trois modèles de relation entre l'État et les religions, et on fait le tour de l'actu : Nouvelle-Zélande, Ukraine, Iran, France.",
+    "themes": "Thème 5, Thème 2",
+    "duree": 325,
+    "octets": 1949853,
+    "lieu": "Buenos Aires",
+    "coords": [
+      -34.6,
+      -58.38
+    ]
+  },
+  {
     "id": "2026-11-07-soir",
     "date": "2026-11-07",
     "type": "soir",

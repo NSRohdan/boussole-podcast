@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-09-soir",
+    "date": "2026-11-09",
+    "type": "soir",
+    "titre": "SMIC : la conférence a décidé, mais la colère reste",
+    "resume": "Après la conférence sociale de Matignon, le gouvernement annonce une hausse du SMIC de 1,6 %, jugée insuffisante par les syndicats et trop coûteuse par le patronat. Un chiffre, trois lectures, et une leçon de lecture critique des titres sur Trump.",
+    "themes": "Thème 1, Thème 4",
+    "duree": 273,
+    "octets": 1637517,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-09-matin",
     "date": "2026-11-09",
     "type": "matin",

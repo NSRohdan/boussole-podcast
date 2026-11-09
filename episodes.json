@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-09-matin",
+    "date": "2026-11-09",
+    "type": "matin",
+    "titre": "Matignon : une conférence qui ne décide rien change-t-elle quelque chose ?",
+    "resume": "Syndicats et patronat sont reçus à Matignon après un mois de mobilisation. À quoi sert une conférence sociale qui ne décide pas de tout ? Parallèle avec les accords de 1936, notion de corps intermédiaires, le pape face à Milei et la formule « pourrait être trop dure » de Trump.",
+    "themes": "Thème 1, Thème 4, Thème 5",
+    "duree": 329,
+    "octets": 1974333,
+    "lieu": "Paris",
+    "coords": [
+      48.857,
+      2.352
+    ]
+  },
+  {
     "id": "2026-11-08-soir",
     "date": "2026-11-08",
     "type": "soir",

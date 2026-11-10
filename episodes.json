@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-10-matin",
+    "date": "2026-11-10",
+    "type": "matin",
+    "titre": "Abou Dhabi : décider de l'Ukraine sans les Européens ?",
+    "resume": "Russie, Ukraine et États-Unis négocient à Abou Dhabi, et les Européens sont dans la ville mais pas dans la salle. Qu'est-ce qu'une garantie de sécurité, et que nous disent Munich, Yalta et Budapest ? Avec, en bref, l'accusation française contre l'Iran après le piratage des frigos et la fermeture de Novaïa Gazeta.",
+    "themes": "Thème 2, Thème 3, Thème 4",
+    "duree": 327,
+    "octets": 1961805,
+    "lieu": "Abou Dhabi",
+    "coords": [
+      24.454,
+      54.377
+    ]
+  },
+  {
     "id": "2026-11-09-soir",
     "date": "2026-11-09",
     "type": "soir",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-11-soir",
+    "date": "2026-11-11",
+    "type": "soir",
+    "titre": "Abou Dhabi : qui fait passer les messages ?",
+    "resume": "Les pourparlers d'Abou Dhabi se terminent sans cessez-le-feu mais avec un échange de prisonniers ; les émissaires américains iront jeudi à Moscou puis à Dublin. On explique la diplomatie de la navette, on lit les chiffres de la grève générale espagnole et on corrige le quiz du matin.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 293,
+    "octets": 1755597,
+    "lieu": "Abou Dhabi",
+    "coords": [
+      24.454,
+      54.377
+    ]
+  },
+  {
     "id": "2026-11-11-matin",
     "date": "2026-11-11",
     "type": "matin",

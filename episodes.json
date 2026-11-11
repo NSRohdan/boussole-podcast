@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-11-matin",
+    "date": "2026-11-11",
+    "type": "matin",
+    "titre": "La guerre fait baisser la pollution : bonne nouvelle ?",
+    "resume": "À la COP31, un rapport scientifique annonce un léger recul des émissions mondiales de CO2 en 2026, attribué en partie à la guerre en Iran et aux renouvelables. Pourquoi une crise fait-elle baisser la pollution, et pourquoi ce n'est pas forcément une victoire pour le climat ? Retour sur les chocs pétroliers de 1973 et 1979.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 311,
+    "octets": 1863597,
+    "lieu": "Antalya",
+    "coords": [
+      36.897,
+      30.713
+    ]
+  },
+  {
     "id": "2026-11-10-matin",
     "date": "2026-11-10",
     "type": "matin",

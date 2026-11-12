@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-12-soir",
+    "date": "2026-11-12",
+    "type": "soir",
+    "titre": "Ukraine : les Américains plaident pour que l'Europe ait sa place",
+    "resume": "Reçus au Kremlin, les émissaires américains ont demandé à Poutine d'inclure les Européens dans les pourparlers ; Moscou refuse déjà l'idée de soldats étrangers. Et les fausses alertes à la bombe continuent : l'attaque a-t-elle échoué ? Avec la correction du quiz du matin.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 260,
+    "octets": 1558749,
+    "lieu": "Dublin",
+    "coords": [
+      53.35,
+      -6.26
+    ]
+  },
+  {
     "id": "2026-11-12-matin",
     "date": "2026-11-12",
     "type": "matin",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-12-matin",
+    "date": "2026-11-12",
+    "type": "matin",
+    "titre": "Fausses alertes à la bombe : 6 000 écoles, zéro bombe, quel but ?",
+    "resume": "Mercredi, des milliers d'écoles italiennes, irlandaises et britanniques ont reçu de fausses alertes à la bombe. Aucune bombe trouvée, auteur non établi : pourquoi parler d'attaque ? On décode la guerre hybride, l'asymétrie des coûts et un parallèle avec la guerre froide, puis le point sur la navette américaine Moscou-Dublin, les journalistes français interdits de Russie et Meta condamnée au Brésil.",
+    "themes": "Thème 4, Thème 2",
+    "duree": 341,
+    "octets": 2047485,
+    "lieu": "Rome",
+    "coords": [
+      41.9,
+      12.5
+    ]
+  },
+  {
     "id": "2026-11-11-soir",
     "date": "2026-11-11",
     "type": "soir",

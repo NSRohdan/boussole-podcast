@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-13-matin",
+    "date": "2026-11-13",
+    "type": "matin",
+    "titre": "Dublin, Shenzhen : l'Europe aura-t-elle une chaise à la table ?",
+    "resume": "Jeudi soir, à Dublin, les émissaires américains ont promis aux Européens une place dans la prochaine réunion sur l'Ukraine. Poutine reste inflexible et une rencontre Trump-Poutine-Xi est évoquée à Shenzhen. Une place à la table se reçoit-elle ou se gagne-t-elle ? Parallèle avec Talleyrand au congrès de Vienne.",
+    "themes": "Thème 2",
+    "duree": 322,
+    "octets": 1931133,
+    "lieu": "Dublin",
+    "coords": [
+      53.35,
+      -6.26
+    ]
+  },
+  {
     "id": "2026-11-12-soir",
     "date": "2026-11-12",
     "type": "soir",

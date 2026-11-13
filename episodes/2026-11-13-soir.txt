@@ -1,0 +1,29 @@
+Léa: Imagine : ton mail, ta messagerie du lycée, l'assistant d'intelligence artificielle de ton école, tout s'éteint en même temps. Et personne n'a piraté personne.
+Hugo: Attends, une panne mondiale sans pirate ? C'est possible, ça ?
+Léa: C'est exactement ce qui s'est passé depuis hier soir. Mais d'abord, on se présente. Ici Boussole, l'actu décodée pour la spé histoire-géo, géopolitique et sciences po. Nous, Léa et Hugo, sommes des voix de synthèse, et l'épisode est préparé avec l'intelligence artificielle.
+Hugo: Alors, ce qui s'est passé depuis ce matin. Le grand feuilleton de la journée, c'est la panne de Microsoft. Jeudi soir, sa messagerie Outlook, sa plateforme Teams et son assistant Copilot sont tombés en panne, dans le monde entier.
+Léa: Et ça a duré plus de dix-huit heures, selon le quotidien espagnol El País. Des services publics et des entreprises ont été perturbés, jusqu'en Australie et au Japon. Le gouvernement allemand, lui, parle d'un impact très important sur l'économie, d'après le Financial Times.
+Hugo: Et la cause ?
+Léa: Microsoft écarte une cyberattaque. C'est la version de l'entreprise, et pour l'instant, elle n'a pas détaillé l'origine précise. Ce soir, la situation s'améliore, mais le retour à la normale n'est pas complet, d'après la BBC.
+Hugo: Donc une panne, pas une attaque. Et ça rassure ?
+Léa: Voilà la question qui dérange. Est-ce qu'une panne accidentelle est moins grave qu'une attaque ? Pas du tout, pour celui qui ne peut plus travailler. Ce qui compte, ce n'est pas l'intention, c'est la dépendance.
+Hugo: Explique.
+Léa: Quand des millions de personnes, des administrations et des hôpitaux passent par le même outil, il devient ce que les ingénieurs appellent un point de défaillance unique. Si lui tombe, tout tombe. Et ce point est contrôlé par une seule entreprise, américaine.
+Hugo: Et la France est concernée, bien sûr.
+Léa: Oui. Le journal L'Opinion rappelle qu'un rapport de la Cour des comptes, fin octobre, alertait déjà sur la dépendance des ministères français aux outils de Microsoft. Et par un hasard du calendrier, ce vendredi à Dublin, les dirigeants européens tenaient leur premier sommet consacré à l'intelligence artificielle. Le patron de la société française Mistral a demandé à l'Europe d'agir maintenant.
+Hugo: Ça nous renvoie à ton programme, Jade. La souveraineté, c'est la capacité d'un État à décider sans dépendre d'un autre. Aujourd'hui, elle se joue aussi dans les câbles, les logiciels et les serveurs.
+Léa: Et l'Histoire a déjà montré ça. En mille neuf cent soixante-treize, le choc pétrolier révèle que l'économie occidentale dépend de quelques pays producteurs. Les Européens se mettent alors à diversifier leurs sources d'énergie.
+Hugo: Mais attention aux différences. En soixante-treize, c'était une décision politique, un embargo. Cette fois, rien n'indique une volonté de nuire. Le problème, c'est la concentration, pas un conflit.
+Léa: Bien vu. Passons à l'Ukraine, parce que la journée a aussi bougé là-dessus. Ce matin, on te parlait de la promesse faite aux Européens d'avoir une place aux négociations.
+Hugo: Et alors, Moscou a confirmé ?
+Léa: Non. Kiev, Washington et l'Union européenne affirment que les Européens seront présents. Mais selon franceinfo, le Kremlin n'a pas confirmé, et la Russie ne commente pas. C'est la réponse à une de nos questions du matin : une promesse n'est pas une confirmation.
+Hugo: Et on apprend deux choses. Un sommet de la coalition des volontaires, les pays qui soutiennent l'Ukraine, est prévu jeudi prochain à Berlin, d'après Le Monde. Et le chancelier Merz demande à Donald Trump d'éviter les surprises lors de sa rencontre annoncée en Chine avec Vladimir Poutine.
+Léa: Annoncée, on insiste. Dans les sources que nous avons lues, rien de nouveau ne vient de Pékin.
+Hugo: Et la grande question reste entière : qui parlera au nom de l'Europe ? Le média indépendant russe Meduza raconte que les Européens peinent encore à choisir leur représentant.
+Léa: Un mot sur la France. Mardi prochain, grève dans la fonction publique. La CFDT a rejoint l'appel après une réunion à Matignon, où le Premier ministre a ouvert une discussion d'un mois sur les bas salaires. Les syndicats jugent ça insuffisant.
+Hugo: Venons-en au quiz de ce matin, avec les réponses. Premièrement, le concert des puissances : c'est un système où les grandes puissances décident ensemble de l'ordre du continent. Il est né au congrès de Vienne, en mille huit cent quatorze et mille huit cent quinze. On l'évoque aujourd'hui parce que les Européens craignent un nouveau Yalta, une décision prise sans eux.
+Léa: Deuxièmement, vrai ou faux : si Kushner dit que les Européens seront à la table, c'est confirmé par Moscou. Faux, comme on vient de le voir. Beaucoup oublient que l'annonce d'un camp n'est pas l'accord de l'autre.
+Hugo: Troisièmement, la rencontre à Shenzhen. C'est une annonce, pas un fait établi. Tant que tous les participants ne l'ont pas confirmée, on parle d'hypothèse sur le format.
+Léa: Et la question du matin : une invitation, est-ce une vraie place ? Une place accordée peut être retirée. Une place gagnée, par les moyens et par une voix claire, ne dépend de personne.
+Hugo: Alors, une question pour demain. Si un seul outil peut faire s'arrêter la moitié d'un pays, qui doit décider de la manière dont on s'en protège : l'État, les entreprises, ou chacun de nous ?
+Léa: Réfléchis-y, Jade, et toi qui nous écoutes. On en reparle demain matin.

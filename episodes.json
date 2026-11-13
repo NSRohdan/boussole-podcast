@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-13-soir",
+    "date": "2026-11-13",
+    "type": "soir",
+    "titre": "Panne Microsoft : une panne sans pirate, est-ce moins grave ?",
+    "resume": "Une panne mondiale de Microsoft a paralysé messagerie, Teams et IA pendant plus de dix-huit heures, sans cyberattaque selon l'entreprise. Pourquoi la dépendance numérique est une question de souveraineté, et où en est la place des Européens dans les négociations sur l'Ukraine.",
+    "themes": "Thème 2, Thème 4",
+    "duree": 299,
+    "octets": 1792605,
+    "lieu": "Redmond (siège de Microsoft)",
+    "coords": [
+      47.674,
+      -122.121
+    ]
+  },
+  {
     "id": "2026-11-13-matin",
     "date": "2026-11-13",
     "type": "matin",

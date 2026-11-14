@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-11-14-bilan",
+    "date": "2026-11-14",
+    "type": "bilan",
+    "titre": "Bilan de la semaine : qui décide, et qui est dans la pièce ?",
+    "resume": "Cinq événements de la semaine : la conférence sociale et le SMIC, l'Ukraine d'Abou Dhabi à Shenzhen, la COP31, les fausses alertes à la bombe dans les écoles et la panne mondiale de Microsoft. Le fil rouge : qui décide, et de quoi dépend-on ? Notions et quiz pour réviser.",
+    "themes": "Thème 1, Thème 2, Thème 3, Thème 4",
+    "duree": 531,
+    "octets": 3187533
+  },
+  {
     "id": "2026-11-13-soir",
     "date": "2026-11-13",
     "type": "soir",

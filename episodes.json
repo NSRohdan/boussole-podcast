@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-14-soir",
+    "date": "2026-11-14",
+    "type": "soir",
+    "titre": "Donbass contre OTAN : un pays peut-il échanger sa terre contre une protection ?",
+    "resume": "Selon Zelensky, Washington aurait évoqué une adhésion à l'OTAN en échange d'un retrait du Donbass. Que vaut une garantie de sécurité, qui doit décider, et qu'en disent Bucarest 2008 et la Finlande de 1940 ? Avec le point sur la rencontre annoncée en Chine et les pannes de la semaine.",
+    "themes": "Thème 2, Thème 3, Thème 4",
+    "duree": 312,
+    "octets": 1874253,
+    "lieu": "Donbass (Donetsk, Louhansk)",
+    "coords": [
+      48.0,
+      37.8
+    ]
+  },
+  {
     "id": "2026-11-14-bilan",
     "date": "2026-11-14",
     "type": "bilan",

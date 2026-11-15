@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-15-matin",
+    "date": "2026-11-15",
+    "type": "matin",
+    "titre": "Francophonie : pourquoi le sommet du français se tient-il au Cambodge ?",
+    "resume": "Le sommet de la Francophonie s'est ouvert à Phnom Penh, avec une élection disputée lundi à la tête de l'organisation. Pourquoi la langue ne suffit-elle pas à faire une puissance ? On décode le soft power, la décision par consensus, et on fait le point sur la candidature de Teddy Riner et la rencontre annoncée à Shenzhen.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 342,
+    "octets": 2052813,
+    "lieu": "Phnom Penh",
+    "coords": [
+      11.556,
+      104.928
+    ]
+  },
+  {
     "id": "2026-11-14-soir",
     "date": "2026-11-14",
     "type": "soir",

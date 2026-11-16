@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-16-soir",
+    "date": "2026-11-16",
+    "type": "soir",
+    "titre": "Francophonie : pourquoi l'élection du chef est-elle reportée ?",
+    "resume": "Pour la première fois, la Francophonie repousse l'élection de son secrétaire général, faute de consensus. Aussi : Moscou répond à l'Estonie, un pont de Crimée touché et des chiffres de drones à lire avec prudence. Correction de l'entraînement express.",
+    "themes": "Thème 2, Thème 3, Thème 4",
+    "duree": 274,
+    "octets": 1642269,
+    "lieu": "Phnom Penh",
+    "coords": [
+      11.556,
+      104.928
+    ]
+  },
+  {
     "id": "2026-11-16-matin",
     "date": "2026-11-16",
     "type": "matin",

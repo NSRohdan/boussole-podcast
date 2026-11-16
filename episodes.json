@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-16-matin",
+    "date": "2026-11-16",
+    "type": "matin",
+    "titre": "Estonie : pourquoi fermer sa frontière ?",
+    "resume": "L'Estonie annonce la fermeture de tous ses postes-frontières avec la Russie après une tentative de sabotage qu'elle attribue à Moscou. À quoi sert une frontière fermée ? On décode, avec un détour par la Finlande, les manifestations de Prague et le Yémen.",
+    "themes": "Thème 3, Thème 2",
+    "duree": 364,
+    "octets": 2182557,
+    "lieu": "Estonie",
+    "coords": [
+      58.6,
+      25.0
+    ]
+  },
+  {
     "id": "2026-11-15-matin",
     "date": "2026-11-15",
     "type": "matin",

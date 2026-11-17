@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-17-matin",
+    "date": "2026-11-17",
+    "type": "matin",
+    "titre": "Shenzhen : trois puissances à table, et l'Europe dehors",
+    "resume": "Jeudi, Xi, Trump et Poutine se retrouvent en Chine pour une première rencontre à trois, sans ordre du jour annoncé et sans Européen. Pourquoi cela concerne-t-il la France ? On explique, avec Yalta et Nixon à Pékin, et on fait le point sur le hub de retour au Rwanda, la grève du jour et la Serbie.",
+    "themes": "Thème 2, Thème 3, Thème 1",
+    "duree": 337,
+    "octets": 2023437,
+    "lieu": "Shenzhen",
+    "coords": [
+      22.54,
+      114.06
+    ]
+  },
+  {
     "id": "2026-11-16-soir",
     "date": "2026-11-16",
     "type": "soir",

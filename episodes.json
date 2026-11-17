@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-17-soir",
+    "date": "2026-11-17",
+    "type": "soir",
+    "titre": "Pont de Crimée : un pont, ou un message ?",
+    "resume": "Dans la nuit, l'Ukraine a endommagé le pont de Crimée, deux jours avant la rencontre Xi-Trump-Poutine, tandis que la Russie frappait deux ponts de Kiev. Pourquoi un pont est à la fois une cible militaire et un symbole, ce que disent Moscou et Paris des militaires français en Ukraine, et comment lire les chiffres d'un camp en guerre.",
+    "themes": "Thème 3, Thème 2",
+    "duree": 271,
+    "octets": 1627437,
+    "lieu": "Pont de Crimée (détroit de Kertch)",
+    "coords": [
+      45.31,
+      36.51
+    ]
+  },
+  {
     "id": "2026-11-17-matin",
     "date": "2026-11-17",
     "type": "matin",

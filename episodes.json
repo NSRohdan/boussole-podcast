@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-18-matin",
+    "date": "2026-11-18",
+    "type": "matin",
+    "titre": "Rougeole : comment les États-Unis ont perdu un titre tenu 26 ans",
+    "resume": "Les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole. Que veut dire éliminer, pourquoi faut-il environ 95 % de vaccinés, et qui dit quoi sur les causes ? Un fait, deux explications, et une notion : l'immunité collective.",
+    "themes": "Thème 4, Thème 2",
+    "duree": 319,
+    "octets": 1911261,
+    "lieu": "Washington",
+    "coords": [
+      38.907,
+      -77.037
+    ]
+  },
+  {
     "id": "2026-11-17-soir",
     "date": "2026-11-17",
     "type": "soir",

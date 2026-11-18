@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-18-soir",
+    "date": "2026-11-18",
+    "type": "soir",
+    "titre": "Golfe : pourquoi frapper une île, et riposter sur le Koweït ?",
+    "resume": "Les États-Unis ont frappé l'île iranienne de Qeshm, l'Iran a visé le Koweït et Bahreïn. Pourquoi les petits États du Golfe sont-ils pris entre deux géants ? Le point sur Shenzhen, la réponse sur la rougeole, et la guerre des tankers de 1984-1988 comme parallèle.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 279,
+    "octets": 1673805,
+    "lieu": "Île de Qeshm, détroit d'Ormuz",
+    "coords": [
+      26.8,
+      55.9
+    ]
+  },
+  {
     "id": "2026-11-18-matin",
     "date": "2026-11-18",
     "type": "matin",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-19-matin",
+    "date": "2026-11-19",
+    "type": "matin",
+    "titre": "Génocide des Rohingya : un tribunal sans police peut-il condamner un État ?",
+    "resume": "Ce jeudi, la Cour internationale de justice rend sa décision sur le génocide des Rohingya en Birmanie. Que juge-t-elle, pourquoi l'intention est-elle si difficile à prouver, et à quoi sert un arrêt sans police ? Avec le sommet de Shenzhen et l'incursion israélienne à Gaza.",
+    "themes": "Thème 2, Thème 3",
+    "duree": 322,
+    "octets": 1932573,
+    "lieu": "La Haye",
+    "coords": [
+      52.087,
+      4.296
+    ]
+  },
+  {
     "id": "2026-11-18-soir",
     "date": "2026-11-18",
     "type": "soir",
